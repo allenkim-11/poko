@@ -10,4 +10,7 @@ export const materialsCount = materialsData.count ?? materials.length;
 
 export const pokedex = pokedexData.pokemon;
 export const pokedexCount = pokedexData.count ?? pokedex.length;
-export const pokedexIconMapping = pokedexData.iconMapping ?? {};
+export const pokedexIconMapping = (pokedexData.iconMapping ?? {}) as Record<
+  string,
+  string
+>;
