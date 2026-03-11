@@ -160,13 +160,13 @@ export default function DexDetailPage({ params }: DexDetailPageProps) {
             {pokemon.details.map((detail, index) => (
               <Card key={`${pokemon.id}-${detail.name}-${index}`} className="section-card">
                 <CardContent className="space-y-3">
-                  <div className="flex items-center gap-3">
-                    <div className="grid h-14 w-14 place-items-center rounded-2xl bg-white/80 shadow-soft">
+                  <div className="flex items-center gap-4">
+                    <div className="grid h-20 w-20 place-items-center rounded-3xl bg-white/80 shadow-soft">
                       {detail.image ? (
                         <img
                           src={detail.image}
                           alt={detail.name}
-                          className="h-12 w-12 object-contain"
+                          className="h-16 w-16 object-contain"
                           loading="lazy"
                           referrerPolicy="no-referrer"
                         />

@@ -173,8 +173,8 @@ export default function DexPage() {
       ) : (
         <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {filtered.map((pokemon) => (
-            <Card key={pokemon.id} className="section-card">
-              <CardContent className="space-y-4">
+            <Card key={pokemon.id} className="section-card h-full">
+              <CardContent className="flex h-full flex-col gap-4">
                 <div className="flex items-center gap-3">
                   <div className="grid h-14 w-14 place-items-center rounded-2xl bg-white/80 shadow-soft">
                     {pokemon.image ? (
@@ -233,11 +233,23 @@ export default function DexPage() {
                   <div className="flex flex-wrap gap-2">
                     {pokemon.details.length ? (
                       pokemon.details.slice(0, 2).map((detail, index) => (
-                        <IconChip
+                        <div
                           key={`${pokemon.id}-habitat-${detail.name}-${index}`}
-                          label={detail.name}
-                          icon={detail.image}
-                        />
+                          className="flex items-center gap-3 rounded-2xl border border-border bg-white/80 px-3 py-2 shadow-soft"
+                        >
+                          <div className="grid h-12 w-12 place-items-center rounded-xl bg-white/80 shadow-soft">
+                            {detail.image ? (
+                              <img
+                                src={detail.image}
+                                alt={detail.name}
+                                className="h-10 w-10 object-contain"
+                                loading="lazy"
+                                referrerPolicy="no-referrer"
+                              />
+                            ) : null}
+                          </div>
+                          <p className="text-sm font-semibold">{detail.name}</p>
+                        </div>
                       ))
                     ) : (
                       <IconChip label={pokemon.habitats.join(" · ") || "-"} />
@@ -245,7 +257,7 @@ export default function DexPage() {
                   </div>
                 </div>
 
-                <Button asChild variant="outline" className="w-full">
+                <Button asChild variant="outline" className="mt-auto w-full">
                   <Link href={`/dex/${encodeURIComponent(pokemon.dexNo)}`}>
                     상세 보기
                   </Link>
