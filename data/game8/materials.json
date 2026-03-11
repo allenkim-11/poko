@@ -1,0 +1,167 @@
+{
+  "source": "https://game8.co/games/Pokemon-Pokopia/archives/584741",
+  "fetchedAt": "2026-03-11T09:50:22.416Z",
+  "count": 32,
+  "materials": [
+    {
+      "name": "Honey",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585666",
+      "image": "https://img.game8.co/4432404/6aa9249c9168b6c84976df80f8a0f1d6.png/show"
+    },
+    {
+      "name": "Sturdy Stick",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585755",
+      "image": "https://img.game8.co/4432399/f77e8dbf896733e94fb5cf45ab1653f5.png/show"
+    },
+    {
+      "name": "Stone",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585747",
+      "image": "https://img.game8.co/4432400/0137c110d8131b26fa0c148304746998.png/show"
+    },
+    {
+      "name": "Leaf",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585752",
+      "image": "https://img.game8.co/4432409/3f8976c3a512ceed7e59975addad8336.png/show"
+    },
+    {
+      "name": "Small Log",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585451",
+      "image": "https://img.game8.co/4432401/8eb83a9fc6e9563a7ae14513101af065.png/show"
+    },
+    {
+      "name": "Vine Rope",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585130",
+      "image": "https://img.game8.co/4432410/d04a4473ad4ea54df732227057ce2d3e.png/show"
+    },
+    {
+      "name": "Glowing Mushrooms",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585746",
+      "image": "https://img.game8.co/4432403/db3fef215d89b55e3ef4f250d944eb3b.png/show"
+    },
+    {
+      "name": "Twine",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585734",
+      "image": "https://img.game8.co/4435583/53b046d8b11cc52b4ab9ee4be69e9804.png/show"
+    },
+    {
+      "name": "Sea Glass Fragments",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585714",
+      "image": "https://img.game8.co/4435420/8a0dda4b5dde251b311a02717c0f1501.png/show"
+    },
+    {
+      "name": "Seashell",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585675",
+      "image": "https://img.game8.co/4435279/0ee5cc7721f0d7082cbd2e6c543512d5.png/show"
+    },
+    {
+      "name": "Nonburnable Garbage",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585661",
+      "image": "https://img.game8.co/4435152/ad7350c4d30e0d9f4f5a63f379b03fe8.png/show"
+    },
+    {
+      "name": "Squishy Clay",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585131",
+      "image": "https://img.game8.co/4433045/d0b904c828a2c14933cc717bf3146064.png/show"
+    },
+    {
+      "name": "Fluff",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585175",
+      "image": "https://img.game8.co/4432408/1ea9237e82104568034bf87748e0ce60.png/show"
+    },
+    {
+      "name": "Wastepaper",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585756",
+      "image": "https://img.game8.co/4435758/5aa00ec0306e12bd42d02b65920285e4.png/show"
+    },
+    {
+      "name": "Copper Ore",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585753",
+      "image": "https://img.game8.co/4432406/c65bd3c8761dc50e0782353e4fdf99dd.png/show"
+    },
+    {
+      "name": "Iron Ore",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585642",
+      "image": "https://img.game8.co/4432402/cfdede0e392314cecc466588c34e247f.png/show"
+    },
+    {
+      "name": "Gold Ore",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585347",
+      "image": "https://img.game8.co/4434147/858b11c311a15f0fc530683105017ce9.png/show"
+    },
+    {
+      "name": "Pokemetal Fragment",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585487",
+      "image": "https://img.game8.co/4432407/8b5d7ff9d94ff4953d351bdf2f30e37e.png/show"
+    },
+    {
+      "name": "Rare Pokemetal Fragment",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585935",
+      "image": "https://img.game8.co/4436646/896335ec30a483e812ff8880cc5348ba.png/show"
+    },
+    {
+      "name": "Crystal Fragment",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585449",
+      "image": "https://img.game8.co/4434192/21e4dd24aa42c64e3c42521f3c9f8983.png/show"
+    },
+    {
+      "name": "Lumber",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585338",
+      "image": "https://img.game8.co/4434095/430623a2b2b54f7cf981ff60fac588d4.png/show"
+    },
+    {
+      "name": "Brick",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585293",
+      "image": "https://img.game8.co/4434037/d3fa8c93f83eb2f59beb1e406956de29.png/show"
+    },
+    {
+      "name": "Copper Ingot",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585754",
+      "image": "https://img.game8.co/4435752/f22d615e3dba64f9498e98d4ea953ed7.png/show"
+    },
+    {
+      "name": "Iron Ingot",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585943",
+      "image": "https://img.game8.co/4436623/bc7f1c03d44a6c0e768a19b2c6940eec.png/show"
+    },
+    {
+      "name": "Gold Ingot",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585349",
+      "image": "https://img.game8.co/4434148/a62befff8f1e42512e4f6accc6b98ee7.png/show"
+    },
+    {
+      "name": "Pokemetal",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585500",
+      "image": "https://img.game8.co/4432405/45bace7151c6d12233af541b83fd4aef.png/show"
+    },
+    {
+      "name": "Rare Pokemetal",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585956",
+      "image": "https://img.game8.co/4436645/534c042b6e5cbd3915683d8ebcef36c5.png/show"
+    },
+    {
+      "name": "Glass",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585671",
+      "image": "https://img.game8.co/4435316/28b716ca424566618163d93de706ee43.png/show"
+    },
+    {
+      "name": "Concrete",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585700",
+      "image": "https://img.game8.co/4435459/f6aae4d28af996cbb92bffc1ffab066a.png/show"
+    },
+    {
+      "name": "Paper",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585320",
+      "image": "https://img.game8.co/4434058/00b7380f7b0a6f61723d98a871320899.png/show"
+    },
+    {
+      "name": "Tinkagear",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585721",
+      "image": "https://img.game8.co/4435582/ea447ad3b4e57b279aee13fd31c7fd86.png/show"
+    },
+    {
+      "name": "Armor Fragment",
+      "url": "https://game8.co/games/Pokemon-Pokopia/archives/585751",
+      "image": "https://img.game8.co/4435739/545986251ae749ddbba11ff722d63c73.png/show"
+    }
+  ]
+}

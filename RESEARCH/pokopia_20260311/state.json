@@ -1,0 +1,25 @@
+{
+  "session_id": "pokopia_20260311",
+  "topic": "포코피아 게임 분석",
+  "created_at": "2026-03-11T00:00:00Z",
+  "updated_at": "2026-03-11T00:00:00Z",
+  "status": "PHASE_3_QUERYING",
+  "current_phase": 3,
+  "requirements": {
+    "focus": ["게임플레이", "콘텐츠"],
+    "output_format": "comprehensive_report",
+    "audience": "게임 기획자",
+    "special_requirements": []
+  },
+  "progress": {
+    "phase_1": "completed",
+    "phase_2": "completed",
+    "phase_3": "in_progress",
+    "phase_4": "pending",
+    "phase_5": "pending",
+    "phase_6": "pending",
+    "phase_7": "pending"
+  },
+  "sources_count": 0,
+  "errors": []
+}

@@ -1,0 +1,2289 @@
+{
+  "source": "https://game8.co/games/Pokemon-Pokopia/archives/582463",
+  "fetchedAt": "2026-03-11T09:50:22.416Z",
+  "count": 169,
+  "habitats": [
+    {
+      "dexNo": 1,
+      "name": "Tall grass",
+      "materials": [
+        "Tall grass x4"
+      ],
+      "pokemon": [
+        "Bulbasaur",
+        "Charmander",
+        "Charizard",
+        "Squirtle",
+        "Oddish",
+        "Geodude"
+      ],
+      "image": "https://img.game8.co/4423971/dee0b00910ddee74eb7f5f9f510f4cd6.png/show"
+    },
+    {
+      "dexNo": 2,
+      "name": "Tree-shaded tall grass",
+      "materials": [
+        "Tall grass x4",
+        "Large Tree (any) x1"
+      ],
+      "pokemon": [
+        "Bellsprout",
+        "Scyther",
+        "Scizor",
+        "Pinsir",
+        "Heracross"
+      ],
+      "image": "https://img.game8.co/4423956/e63a2a1800ceb7c833c468c11131104e.png/show"
+    },
+    {
+      "dexNo": 3,
+      "name": "Boulder-shaded tall grass",
+      "materials": [
+        "Tall grass x4",
+        "Large boulder x1"
+      ],
+      "pokemon": [
+        "Timburr",
+        "Gurdurr",
+        "Machop"
+      ],
+      "image": "https://img.game8.co/4423970/3424780ef75b20a293a96327eb98730e.png/show"
+    },
+    {
+      "dexNo": 4,
+      "name": "Hydrated tall grass",
+      "materials": [
+        "Tall grass x4",
+        "Water x2"
+      ],
+      "pokemon": [
+        "Squirtle",
+        "Wartortle",
+        "Blastoise",
+        "Sliggoo",
+        "Cramorant"
+      ],
+      "image": "https://img.game8.co/4431647/8482ea23489e50475a687ad424bbd1eb.png/show"
+    },
+    {
+      "dexNo": 5,
+      "name": "Seaside tall grass",
+      "materials": [
+        "Tall grass x4",
+        "Ocean Water x2"
+      ],
+      "pokemon": [
+        "Slowpoke",
+        "Slowbro",
+        "Slowking"
+      ],
+      "image": "https://img.game8.co/4431648/1fd6876bd66068d0b0dd614477027150.png/show"
+    },
+    {
+      "dexNo": 6,
+      "name": "Elevated tall grass",
+      "materials": [
+        "Tall grass x4",
+        "High-up location x1"
+      ],
+      "pokemon": [
+        "Pidgey",
+        "Pidgeotto",
+        "Hoothoot",
+        "Noctowl"
+      ],
+      "image": "https://img.game8.co/4433193/da9a7e810387fd50c14d1e755a5405ff.png/show"
+    },
+    {
+      "dexNo": 7,
+      "name": "Illuminated tall grass",
+      "materials": [
+        "Tall Grass (any) x4",
+        "Lighting (any) x1"
+      ],
+      "pokemon": [
+        "Venonat",
+        "Venomoth"
+      ],
+      "image": "https://img.game8.co/4431649/f95f3157d3df68f05acdad6d7d84e491.png/show"
+    },
+    {
+      "dexNo": 8,
+      "name": "Pretty flower bed",
+      "materials": [
+        "Wildflowers x4"
+      ],
+      "pokemon": [
+        "Pidgey",
+        "Pidgeotto",
+        "Hoothoot",
+        "Combee",
+        "Magby",
+        "Eevee"
+      ],
+      "image": "https://img.game8.co/4423958/ff1d96f0883af3346cfd7389c065c241.png/show"
+    },
+    {
+      "dexNo": 9,
+      "name": "Tree-shaded flower bed",
+      "materials": [
+        "Wildflowers x4",
+        "Berry Tree (any) x1"
+      ],
+      "pokemon": [
+        "Cacturne",
+        "Goomy",
+        "Vikavolt"
+      ],
+      "image": "https://img.game8.co/4431652/ff356a08c435f6dc19e71db341ad662f.png/show"
+    },
+    {
+      "dexNo": 10,
+      "name": "Hydrated flower bed",
+      "materials": [
+        "Wildflowers x4",
+        "Water x2"
+      ],
+      "pokemon": [
+        "Volbeat",
+        "Illumise"
+      ],
+      "image": "https://img.game8.co/4431653/86a344012795aee579f55f42a8093c77.png/show"
+    },
+    {
+      "dexNo": 11,
+      "name": "Field of flowers",
+      "materials": [
+        "Wildflowers x8"
+      ],
+      "pokemon": [
+        "Ivysaur",
+        "Venusaur",
+        "Vespiquen"
+      ],
+      "image": "https://img.game8.co/4431654/c000cd9770fba5c7edda44d93d351d9d.png/show"
+    },
+    {
+      "dexNo": 12,
+      "name": "Elevated flower bed",
+      "materials": [
+        "Wildflowers x4",
+        "High-up location x1"
+      ],
+      "pokemon": [
+        "Paras",
+        "Parasect"
+      ],
+      "image": "https://img.game8.co/4433138/1e93316ffc65a195502dd5e3e8d2677f.png/show"
+    },
+    {
+      "dexNo": 13,
+      "name": "Grave with flowers",
+      "materials": [
+        "Wildflowers x4",
+        "Gravestone x1"
+      ],
+      "pokemon": [
+        "Marowak"
+      ],
+      "image": "https://img.game8.co/4433188/aa5f2a01563b4d03f03342f4bab7ded6.png/show"
+    },
+    {
+      "dexNo": 14,
+      "name": "Flower garden",
+      "materials": [
+        "Wildflowers x4",
+        "Hedge (any) x4"
+      ],
+      "pokemon": [
+        "Paras",
+        "Parasect"
+      ],
+      "image": "https://img.game8.co/4433125/cf211339489f21158d0661336ded3d35.png/show"
+    },
+    {
+      "dexNo": 15,
+      "name": "Fresh veggie field",
+      "materials": [
+        "Vegetable field (any) x8"
+      ],
+      "pokemon": [
+        "Drilbur",
+        "Excadrill"
+      ],
+      "image": "https://img.game8.co/4423954/5599935e337e36c684615fc890af74d0.png/show"
+    },
+    {
+      "dexNo": 16,
+      "name": "Riding warm updrafts",
+      "materials": [
+        "Campfire x3"
+      ],
+      "pokemon": [
+        "Drifloon"
+      ],
+      "image": "https://img.game8.co/4431657/ef715a5359e7b53f0390fb306ae2e9f3.png/show"
+    },
+    {
+      "dexNo": 17,
+      "name": "Campsite",
+      "materials": [
+        "Campfire x1",
+        "Straw stool x1",
+        "Straw table x1"
+      ],
+      "pokemon": [
+        "Charmeleon"
+      ],
+      "image": "https://img.game8.co/4431660/3a3de83c4fb66b8fba0f4b16f8365a7c.png/show"
+    },
+    {
+      "dexNo": 18,
+      "name": "Training waterfall",
+      "materials": [
+        "Seat (any) x1",
+        "Water x2",
+        "Waterfall x1"
+      ],
+      "pokemon": [
+        "Tyrogue"
+      ],
+      "image": "https://img.game8.co/4433229/3094ae25af2ab5742c6b9a42f27ac03f.png/show"
+    },
+    {
+      "dexNo": 19,
+      "name": "Tantalizing dining set",
+      "materials": [
+        "Plated food x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Gulpin"
+      ],
+      "image": "https://img.game8.co/4431684/6c10faa301953ccd4cfb878fd1c6c162.png/show"
+    },
+    {
+      "dexNo": 20,
+      "name": "Picnic set",
+      "materials": [
+        "Picnic basket x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Pichu",
+        "Pikachu"
+      ],
+      "image": "https://img.game8.co/4434462/e444551ffc52be412b9b264bf461bc2c.png/show"
+    },
+    {
+      "dexNo": 21,
+      "name": "Flowery table",
+      "materials": [
+        "Small vase x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Weepinbell",
+        "Victreebel"
+      ],
+      "image": "https://img.game8.co/4431685/f1019185953c86d82c2b1326c5ac4ea4.png/show"
+    },
+    {
+      "dexNo": 22,
+      "name": "Bench with greenery",
+      "materials": [
+        "Hedge (any) x2",
+        "Seat (wide) x1"
+      ],
+      "pokemon": [
+        "Bulbasaur",
+        "Ivysaur"
+      ],
+      "image": "https://img.game8.co/4432135/e913eec1acaf7b46beb3df19bf7dcf8f.png/show"
+    },
+    {
+      "dexNo": 23,
+      "name": "Illuminated bench",
+      "materials": [
+        "Streetlight (any) x1",
+        "Seat (wide) x1"
+      ],
+      "pokemon": [
+        "Venonat",
+        "Venomoth"
+      ],
+      "image": "https://img.game8.co/4431686/4b2d71ebf675d591c35459000195c35f.png/show"
+    },
+    {
+      "dexNo": 24,
+      "name": "Exercise resting spot",
+      "materials": [
+        "Punching bag x1",
+        "Seat (any) x1"
+      ],
+      "pokemon": [
+        "Hitmonchan"
+      ],
+      "image": "https://img.game8.co/4423959/bb0e7801e0457586c7128e33f894bd23.png/show"
+    },
+    {
+      "dexNo": 25,
+      "name": "Urgent care",
+      "materials": [
+        "First aid kit x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Hitmonlee"
+      ],
+      "image": "https://img.game8.co/4431689/5a6ec3f73c81665f9bfd6eebf47b6bf9.png/show"
+    },
+    {
+      "dexNo": 26,
+      "name": "Gym first aid",
+      "materials": [
+        "First aid kit x1",
+        "Punching bag x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Hitmontop"
+      ],
+      "image": "https://img.game8.co/4433239/34721793036585ee0ea0f7de49e8dbf5.png/show"
+    },
+    {
+      "dexNo": 27,
+      "name": "Road sign",
+      "materials": [
+        "Arrow sign x1",
+        "Wooden path x3"
+      ],
+      "pokemon": [
+        "West Sea Shellos",
+        "East Sea Shellos"
+      ],
+      "image": "https://img.game8.co/4431693/c2db1a085cfcd1719a93e6f986642f8d.png/show"
+    },
+    {
+      "dexNo": 28,
+      "name": "Large luggage carrier",
+      "materials": [
+        "Cart x1",
+        "Wooden crate x2"
+      ],
+      "pokemon": [
+        "Gurdurr",
+        "Tinkatink",
+        "Tinkatuff"
+      ],
+      "image": "https://img.game8.co/4431694/763789b806bd1603da503d27aa46be1f.png/show"
+    },
+    {
+      "dexNo": 29,
+      "name": "Lumberjack's workplace",
+      "materials": [
+        "Log chair x1",
+        "Cart x1",
+        "Log table x1",
+        "Tree stump (any) x1"
+      ],
+      "pokemon": [
+        "Axew",
+        "Fraxure",
+        "Haxorus"
+      ],
+      "image": "https://img.game8.co/4431695/1bb627864db4eb7011611a7437eba96f.png/show"
+    },
+    {
+      "dexNo": 30,
+      "name": "Bed with a plush",
+      "materials": [
+        "Bed (any) x1",
+        "Doll (any) x1"
+      ],
+      "pokemon": [
+        "Slowbro",
+        "Slowking",
+        "Drifloon"
+      ],
+      "image": "https://img.game8.co/4433866/d29c2f6023d912be3fceb17b113df8ff.png/show"
+    },
+    {
+      "dexNo": 31,
+      "name": "Gently lit bed",
+      "materials": [
+        "Slender candle x1",
+        "Bed (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Hoothoot",
+        "Noctowl"
+      ],
+      "image": "https://img.game8.co/4431696/1f13c5df49caa5fbf494af5ce730e0ee.png/show"
+    },
+    {
+      "dexNo": 32,
+      "name": "Grave offering",
+      "materials": [
+        "Gravestone x1",
+        "Slender candle x2",
+        "Plated food x1"
+      ],
+      "pokemon": [
+        "Litwick",
+        "Lampent"
+      ],
+      "image": "https://img.game8.co/4434611/0ee88dd1fa21b6b407008db4400e63f6.png/show"
+    },
+    {
+      "dexNo": 33,
+      "name": "Creepy grave offering",
+      "materials": [
+        "Eerie candle x2",
+        "Gravestone x1",
+        "Plated food x1"
+      ],
+      "pokemon": [
+        "Litwick",
+        "Lampent",
+        "Chandelure"
+      ],
+      "image": "https://img.game8.co/4434612/b753742c5a7261462d31c952b44f2e6c.png/show"
+    },
+    {
+      "dexNo": 34,
+      "name": "Chansey resting area",
+      "materials": [
+        "Chansey plant x1",
+        "Hedge (any) x6",
+        "Seat (wide) x1"
+      ],
+      "pokemon": [
+        "Vileplume",
+        "Bellossom"
+      ],
+      "image": "https://img.game8.co/4434613/5a171c520b985dff97eda806b2629fab.png/show"
+    },
+    {
+      "dexNo": 36,
+      "name": "Floating in the shade",
+      "materials": [
+        "Inflatable boat x1",
+        "Beach Parasol x1",
+        "Water x2"
+      ],
+      "pokemon": [
+        "Blastoise"
+      ],
+      "image": "https://img.game8.co/4431779/ba42326837d35b88d5294cef4c16beee.png/show"
+    },
+    {
+      "dexNo": 37,
+      "name": "Smooth tall grass",
+      "materials": [
+        "Dry tall grass x4",
+        "Smooth Rock x1"
+      ],
+      "pokemon": [
+        "Onix"
+      ],
+      "image": "https://img.game8.co/4431781/488564dfdf6500957ab14893bbb641bb.png/show"
+    },
+    {
+      "dexNo": 38,
+      "name": "Factory storage",
+      "materials": [
+        "Metal drum x1",
+        "Control unit x1",
+        "Jumbled cords x1",
+        "Streetlight (any) x1"
+      ],
+      "pokemon": [
+        "Magnemite"
+      ],
+      "image": "https://img.game8.co/4433868/24c3edec3fddc9c0e606de1be28fbc42.png/show"
+    },
+    {
+      "dexNo": 40,
+      "name": "Berry-feast campsite",
+      "materials": [
+        "Castform weather charm (sun) x2",
+        "Bonfire x1",
+        "Berry basket x1",
+        "High-up location x1"
+      ],
+      "pokemon": [
+        "Charizard"
+      ],
+      "image": "https://img.game8.co/4431782/7823e8585d21319d32910b7f71bd9b82.png/show"
+    },
+    {
+      "dexNo": 41,
+      "name": "Rain Dance site",
+      "materials": [
+        "Castform weather charm (rain) x2",
+        "Plated food x1"
+      ],
+      "pokemon": [
+        "Goomy"
+      ],
+      "image": "https://img.game8.co/4431786/e1a230b23cd3bdf2e861700ef31d603f.png/show"
+    },
+    {
+      "dexNo": 42,
+      "name": "Sunny Day site",
+      "materials": [
+        "Castform weather charm (sun) x2",
+        "Plated food x1"
+      ],
+      "pokemon": [
+        "Cacnea"
+      ],
+      "image": "https://img.game8.co/4433151/53adce3612f7786680ca00e994b9dc96.png/show"
+    },
+    {
+      "dexNo": 44,
+      "name": "Cozy log handicrafts",
+      "materials": [
+        "Log chair x1",
+        "Log bed x1",
+        "Log table x1"
+      ],
+      "pokemon": [
+        "Axew",
+        "Fraxure",
+        "Haxorus"
+      ],
+      "image": "https://img.game8.co/4435014/2010d5281dd024ff7a084a86600befda.png/show"
+    },
+    {
+      "dexNo": 46,
+      "name": "Garden terrace",
+      "materials": [
+        "Wildflowers x4",
+        "Garden chair x1",
+        "Garden light x1",
+        "Garden table x1"
+      ],
+      "pokemon": [
+        "Venusaur"
+      ],
+      "image": "https://img.game8.co/4431792/4f2528188a8e52afdcf9b6df1aa001d3.png/show"
+    },
+    {
+      "dexNo": 47,
+      "name": "Tree-shaded snoozing Snorlax",
+      "materials": [
+        "Naptime bed x1",
+        "Large tree (any) x1"
+      ],
+      "pokemon": [
+        "Snorlax"
+      ],
+      "image": "https://img.game8.co/4435858/56ab510cbc91f1df4cd44637c8180153.png/show"
+    },
+    {
+      "dexNo": 50,
+      "name": "Yellow tall grass",
+      "materials": [
+        "Yellow tall grass x4"
+      ],
+      "pokemon": [
+        "Spinarak",
+        "Ariados",
+        "Grubbin"
+      ],
+      "image": "https://img.game8.co/4431794/d6dc372cbd4d3a4ec0abf223365b8f38.png/show"
+    },
+    {
+      "dexNo": 51,
+      "name": "Tree-shaded yellow tall grass",
+      "materials": [
+        "Yellow tall grass x4",
+        "Large tree (any) x1"
+      ],
+      "pokemon": [
+        "Zubat",
+        "Golbat",
+        "Makuhita",
+        "Hariyama"
+      ],
+      "image": "https://img.game8.co/4431796/5c0ef2aab8827f891f322a921051b49e.png/show"
+    },
+    {
+      "dexNo": 52,
+      "name": "Elevated yellow tall grass",
+      "materials": [
+        "Yellow tall grass x4",
+        "High-up location x1"
+      ],
+      "pokemon": [
+        "Crobat",
+        "Wingull",
+        "Pelipper"
+      ],
+      "image": "https://img.game8.co/4431799/4b4644ef8663141c463c915d0e9858ae.png/show"
+    },
+    {
+      "dexNo": 53,
+      "name": "Hydrated yellow tall grass",
+      "materials": [
+        "Yellow tall grass x4",
+        "Water x2"
+      ],
+      "pokemon": [
+        "Azurill",
+        "Marill",
+        "Piplup",
+        "Prinplup"
+      ],
+      "image": "https://img.game8.co/4431803/368ef54f0960b7e1ee03fef21d6c73f0.png/show"
+    },
+    {
+      "dexNo": 54,
+      "name": "Marshy tall grass",
+      "materials": [
+        "Yellow tall grass x4",
+        "Muddy Water x2"
+      ],
+      "pokemon": [
+        "Paldean Wooper",
+        "Clodsire"
+      ],
+      "image": "https://img.game8.co/4434669/aabe32a290c749e17a3ca89585d16626.png/show"
+    },
+    {
+      "dexNo": 55,
+      "name": "Overgrowth vending machine",
+      "materials": [
+        "Yellow tall grass x4",
+        "Vending machine x1"
+      ],
+      "pokemon": [
+        "Mareep"
+      ],
+      "image": "https://img.game8.co/4434469/5032328ac9753c9671b754e1a7924d2e.png/show"
+    },
+    {
+      "dexNo": 56,
+      "name": "Breezy flower bed",
+      "materials": [
+        "Seashore flowers x4"
+      ],
+      "pokemon": [
+        "Zorua",
+        "Zoroark",
+        "Pawmi"
+      ],
+      "image": "https://img.game8.co/4431810/ed0cf6641105364def317046ff94f476.png/show"
+    },
+    {
+      "dexNo": 57,
+      "name": "Tropical vibes",
+      "materials": [
+        "Seashore flowers x4",
+        "Large palm tree x1"
+      ],
+      "pokemon": [
+        "Gloom",
+        "Exeggcute",
+        "Exeggutor"
+      ],
+      "image": "https://img.game8.co/4431812/bb6b35885d2d75b28b279d0e3b84d286.png/show"
+    },
+    {
+      "dexNo": 58,
+      "name": "Windy flower bed",
+      "materials": [
+        "Seashore flowers x4",
+        "Windmill x1"
+      ],
+      "pokemon": [
+        "Wingull",
+        "Pelipper"
+      ],
+      "image": "https://img.game8.co/4431813/5aa210e95cc2aeb50940e1ff3d4086e8.png/show"
+    },
+    {
+      "dexNo": 59,
+      "name": "Shaded beach",
+      "materials": [
+        "Large palm tree x1",
+        "Beach chair x1"
+      ],
+      "pokemon": [
+        "Exeggcute",
+        "Exeggutor"
+      ],
+      "image": "https://img.game8.co/4431815/edf58194cd48b5b9ccb6baba8ce878fd.png/show"
+    },
+    {
+      "dexNo": 60,
+      "name": "Tropical seaside",
+      "materials": [
+        "Large palm tree x1",
+        "Ocean water x2",
+        "Hedge (any) x4"
+      ],
+      "pokemon": [
+        "Lapras"
+      ],
+      "image": "https://img.game8.co/4432152/623c9c783abcefc743c8ac30eb0f68e5.png/show"
+    },
+    {
+      "dexNo": 61,
+      "name": "Resting spot",
+      "materials": [
+        "Cardboard boxes x1",
+        "Straw bed x1"
+      ],
+      "pokemon": [
+        "Meowth"
+      ],
+      "image": "https://img.game8.co/4431817/f11101e4b7027bae4085d48f6bef0f93.png/show"
+    },
+    {
+      "dexNo": 62,
+      "name": "Perpetual mess",
+      "materials": [
+        "Cardboard boxes x1",
+        "Toy (any) x2"
+      ],
+      "pokemon": [
+        "Growlithe",
+        "Azurill"
+      ],
+      "image": "https://img.game8.co/4431818/0c392d04089db76ce010d64bcc7dba12.png/show"
+    },
+    {
+      "dexNo": 63,
+      "name": "Trash collection site",
+      "materials": [
+        "Garbage bags x1",
+        "Waste bin (any) x1",
+        "Sign (any) x1"
+      ],
+      "pokemon": [
+        "Koffing",
+        "Weezing",
+        "Trubbish",
+        "Garbodor"
+      ],
+      "image": "https://img.game8.co/4431820/91d0562483039bd4ba404de1a3da00e5.png/show"
+    },
+    {
+      "dexNo": 64,
+      "name": "Trash can central",
+      "materials": [
+        "Garbage bin x4"
+      ],
+      "pokemon": [
+        "Magneton",
+        "Magnezone",
+        "Electabuzz"
+      ],
+      "image": "https://img.game8.co/4431824/2e2827f2afd97fd193bba98fe9de3335.png/show"
+    },
+    {
+      "dexNo": 65,
+      "name": "Trash disposal site",
+      "materials": [
+        "Garbage bags x1",
+        "Utility pole x1"
+      ],
+      "pokemon": [
+        "Crobat"
+      ],
+      "image": "https://img.game8.co/4431826/c02abbddac4320415d546c4b668448a7.png/show"
+    },
+    {
+      "dexNo": 66,
+      "name": "Park bench",
+      "materials": [
+        "Garbage bin x1",
+        "Seat (wide) x1"
+      ],
+      "pokemon": [
+        "Zubat",
+        "Voltorb",
+        "Electrode"
+      ],
+      "image": "https://img.game8.co/4431832/d70e16be1b64715284c0d3f5d9281b44.png/show"
+    },
+    {
+      "dexNo": 67,
+      "name": "Tantalizing restaurant",
+      "materials": [
+        "Menu board x1",
+        "Plated food x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Pawmi",
+        "Pawmo"
+      ],
+      "image": "https://img.game8.co/4431835/2e8521e6efdb4718e89b4202c322d089.png/show"
+    },
+    {
+      "dexNo": 69,
+      "name": "Chirp-chirp meal",
+      "materials": [
+        "Wooden birdhouse x1",
+        "Plated food x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Torchic",
+        "Blaziken"
+      ],
+      "image": "https://img.game8.co/4431838/551af908a8bb2f8680a70d0ee7f5f1e0.png/show"
+    },
+    {
+      "dexNo": 70,
+      "name": "Cafe space",
+      "materials": [
+        "Counter x2",
+        "Menu board x1",
+        "Mug x1",
+        "Seat (any) x1",
+        "Potted plant (any) x1"
+      ],
+      "pokemon": [],
+      "image": "https://img.game8.co/4434473/3c0be629cbb83e39e2db3c0029ec26f5.png/show"
+    },
+    {
+      "dexNo": 72,
+      "name": "Light-up stage",
+      "materials": [
+        "Spotlight x2",
+        "Small stage x1"
+      ],
+      "pokemon": [
+        "Electabuzz"
+      ],
+      "image": "https://img.game8.co/4431839/77c0f08eb159f197bbbc0d984c660502.png/show"
+    },
+    {
+      "dexNo": 75,
+      "name": "Changing area",
+      "materials": [
+        "Closet (any) x1",
+        "Mirror (large) x1"
+      ],
+      "pokemon": [
+        "Minccino"
+      ],
+      "image": "https://img.game8.co/4431840/e37f4fb786775d782a6f8485d3bcfc8b.png/show"
+    },
+    {
+      "dexNo": 77,
+      "name": "Knitting station",
+      "materials": [
+        "Knitting supplies x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Mareep",
+        "Flaaffy"
+      ],
+      "image": "https://img.game8.co/4431842/36f509a39db5a44c19c55caeefcdd2ed.png/show"
+    },
+    {
+      "dexNo": 78,
+      "name": "Hot-spring shower",
+      "materials": [
+        "Shower x1",
+        "Hot-spring water x2",
+        "Seat (any) x1"
+      ],
+      "pokemon": [
+        "Psyduck"
+      ],
+      "image": "https://img.game8.co/4433885/ea9e531fbdf1507c0cc641b91694a104.png/show"
+    },
+    {
+      "dexNo": 79,
+      "name": "Resort meal prep",
+      "materials": [
+        "Large palm tree x1",
+        "Plated food x1",
+        "Campfire x1",
+        "Seat (any) x1"
+      ],
+      "pokemon": [
+        "Growlithe",
+        "Torchic",
+        "Combusken"
+      ],
+      "image": "https://img.game8.co/4431843/02cd52dad6f8f6afb6f1fdd23aef1764.png/show"
+    },
+    {
+      "dexNo": 80,
+      "name": "All packed up",
+      "materials": [
+        "Cart x1",
+        "Cardboard boxes x2"
+      ],
+      "pokemon": [
+        "Farfetch'd",
+        "Makuhita",
+        "Hariyama"
+      ],
+      "image": "https://img.game8.co/4431844/43d5a08849c18f1116e1f5d956be1f06.png/show"
+    },
+    {
+      "dexNo": 81,
+      "name": "Full recovery",
+      "materials": [
+        "Plain chest x1",
+        "First aid kit x1",
+        "Bed (any) x1"
+      ],
+      "pokemon": [
+        "Chansey"
+      ],
+      "image": "https://img.game8.co/4434672/1bd9cc03e50d935c7a166962ef668abf.png/show"
+    },
+    {
+      "dexNo": 82,
+      "name": "Alarm clock sleep zone",
+      "materials": [
+        "Alarm clock x1",
+        "Bed (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Happiny"
+      ],
+      "image": "https://img.game8.co/4432159/c8beaa5d15af402eea2d323e05912bea.png/show"
+    },
+    {
+      "dexNo": 83,
+      "name": "Vending machine break area",
+      "materials": [
+        "Vending machine x1",
+        "Seat (wide) x1"
+      ],
+      "pokemon": [
+        "Grubbin",
+        "Charjabug"
+      ],
+      "image": "https://img.game8.co/4434675/9479d7796685de8b0f45289125efb417.png/show"
+    },
+    {
+      "dexNo": 84,
+      "name": "Vending machine set",
+      "materials": [
+        "Vending machine x1",
+        "Waste bin (any) x1"
+      ],
+      "pokemon": [
+        "Elekid",
+        "Electivire"
+      ],
+      "image": "https://img.game8.co/4431846/4732164388e7b7e22065016145c77957.png/show"
+    },
+    {
+      "dexNo": 86,
+      "name": "Waterwheel spot",
+      "materials": [
+        "Waterwheel x1",
+        "Water x1",
+        "Waterfall x1"
+      ],
+      "pokemon": [
+        "Prinplup"
+      ],
+      "image": "https://img.game8.co/4431848/42c1262a4c69df23deb6f62bae888c22.png/show"
+    },
+    {
+      "dexNo": 87,
+      "name": "Furnace spot",
+      "materials": [
+        "Metal drum x1",
+        "Furnace x1"
+      ],
+      "pokemon": [
+        "Combusken",
+        "Blaziken"
+      ],
+      "image": "https://img.game8.co/4434678/f969cba9615cf4bfc6ba8efc3e41c314.png/show"
+    },
+    {
+      "dexNo": 88,
+      "name": "Dock",
+      "materials": [
+        "Walkway x4",
+        "Ocean water x2",
+        "Streetlight (any) x1"
+      ],
+      "pokemon": [
+        "Marill",
+        "Azumarill"
+      ],
+      "image": "https://img.game8.co/4431852/a2e423bed0e90005e140ecd87063afb7.png/show"
+    },
+    {
+      "dexNo": 89,
+      "name": "Spooky study",
+      "materials": [
+        "Bookcase x1",
+        "Chic sofa x1",
+        "Plain table x1",
+        "Slender candle x1"
+      ],
+      "pokemon": [
+        "Gastly",
+        "Haunter"
+      ],
+      "image": "https://img.game8.co/4431857/15cae8493d460e77745646037ea57c8a.png/show"
+    },
+    {
+      "dexNo": 90,
+      "name": "Playing pirate",
+      "materials": [
+        "Barrel x2",
+        "Ship's wheel x1",
+        "Cannon x2"
+      ],
+      "pokemon": [
+        "Voltorb",
+        "Electrode"
+      ],
+      "image": "https://img.game8.co/4431858/bbd4dc1937094ae1e173b2dd3ac879e9.png/show"
+    },
+    {
+      "dexNo": 91,
+      "name": "Working the register",
+      "materials": [
+        "Cash register x1",
+        "Table (any) x2"
+      ],
+      "pokemon": [
+        "Meowth",
+        "Happiny",
+        "Audino",
+        "Mawile"
+      ],
+      "image": "https://img.game8.co/4432163/80e07dc9a4d681a668507f8c14b5a7f0.png/show"
+    },
+    {
+      "dexNo": 93,
+      "name": "Gourmet's altar",
+      "materials": [
+        "Offering dish x1"
+      ],
+      "pokemon": [],
+      "image": "https://img.game8.co/4433888/657bd1e06d50aa6c40b7227101a1e020.png/show"
+    },
+    {
+      "dexNo": 94,
+      "name": "Pikachu space",
+      "materials": [
+        "Pikachu sofa x1",
+        "Pikachu doll x1"
+      ],
+      "pokemon": [
+        "Mimikyu"
+      ],
+      "image": "https://img.game8.co/4433899/a95aa60e55ac4ff85b46e20e0fbd4cce.png/show"
+    },
+    {
+      "dexNo": 97,
+      "name": "Plain life",
+      "materials": [
+        "Plain bed x1",
+        "Plain sofa",
+        "Plain table x1",
+        "Plain lamp x1"
+      ],
+      "pokemon": [
+        "Ampharos"
+      ],
+      "image": "https://img.game8.co/4434989/e97c69639bd20bfaa3a7be605f840ee2.png/show"
+    },
+    {
+      "dexNo": 98,
+      "name": "Red tall grass",
+      "materials": [
+        "Red tall grass x4"
+      ],
+      "pokemon": [
+        "Kricketot",
+        "Kricketune",
+        "Riolu",
+        "Scorbunny",
+        "Cinderace"
+      ],
+      "image": "https://img.game8.co/4432175/3fc297463d9c0ca692802ccca4458ece.png/show"
+    },
+    {
+      "dexNo": 99,
+      "name": "Tree-shaded red tall grass",
+      "materials": [
+        "Red tall grass x4",
+        "Large tree (any) x1"
+      ],
+      "pokemon": [
+        "Diglett",
+        "Dugtrio",
+        "Bonsly",
+        "Sudowoodo"
+      ],
+      "image": "https://img.game8.co/4432180/ab1a0a3d9ac853e10400a0a47bba64ed.png/show"
+    },
+    {
+      "dexNo": 100,
+      "name": "Pointy tree-shaded rocky tall grass",
+      "materials": [
+        "Pointy tree x1",
+        "Large boulder x1",
+        "Red tall grass x4"
+      ],
+      "pokemon": [
+        "Dartrix",
+        "Decidueye"
+      ],
+      "image": "https://img.game8.co/4432181/8c13c92629c9582c81659e8dcafc9018.png/show"
+    },
+    {
+      "dexNo": 101,
+      "name": "Hydrated red tall grass",
+      "materials": [
+        "Red tall grass x4",
+        "Water x2"
+      ],
+      "pokemon": [
+        "Lotad",
+        "Lombre"
+      ],
+      "image": "https://img.game8.co/4432195/84001f6ea6528a4211bdc1f5ad987fe3.png/show"
+    },
+    {
+      "dexNo": 102,
+      "name": "Elevated red tall grass",
+      "materials": [
+        "Red tall grass x4",
+        "High-up location x2"
+      ],
+      "pokemon": [
+        "Murkrow",
+        "Honchkrow",
+        "Chatot"
+      ],
+      "image": "https://img.game8.co/4432201/49ebde6d56f3dee15e9cc01830c82a03.png/show"
+    },
+    {
+      "dexNo": 103,
+      "name": "Grassy training field",
+      "materials": [
+        "Red tall grass x4",
+        "Sandbags x2"
+      ],
+      "pokemon": [
+        "Machoke",
+        "Machamp"
+      ],
+      "image": "https://img.game8.co/4432204/18517500589c65a50c649eca7c983f99.png/show"
+    },
+    {
+      "dexNo": 104,
+      "name": "Graceful flower bed",
+      "materials": [
+        "Mountain flowers x4"
+      ],
+      "pokemon": [
+        "Cleffa",
+        "Clefairy",
+        "Clefable",
+        "Fidough",
+        "Dachsbun"
+      ],
+      "image": "https://img.game8.co/4432208/6a0c60a54ca1ac519450d9744656e5dd.png/show"
+    },
+    {
+      "dexNo": 105,
+      "name": "Tree-shaded graceful flower bed",
+      "materials": [
+        "Mountain flowers x4",
+        "Pointy tree x1"
+      ],
+      "pokemon": [
+        "Murkrow",
+        "Larvesta",
+        "Volcarona"
+      ],
+      "image": "https://img.game8.co/4432214/d3d8f4b661c8ac03910731158d5f6743.png/show"
+    },
+    {
+      "dexNo": 106,
+      "name": "Hydrated graceful flower bed",
+      "materials": [
+        "Mountain flowers x4",
+        "Water x2"
+      ],
+      "pokemon": [
+        "Ekans",
+        "Arbok",
+        "Politoed"
+      ],
+      "image": "https://img.game8.co/4434680/95bff17a94f28c2801fc3a061ddbdc2e.png/show"
+    },
+    {
+      "dexNo": 107,
+      "name": "Flower garden stump stage",
+      "materials": [
+        "Mountain flowers x4. Mushroom lamp x2",
+        "Tree stump (any) x1"
+      ],
+      "pokemon": [
+        "Igglybuff",
+        "Jigglypuff",
+        "Politoed"
+      ],
+      "image": "https://img.game8.co/4434681/0fa34fcf6ab07d292712cf36056f3682.png/show"
+    },
+    {
+      "dexNo": 108,
+      "name": "Toil in the soil",
+      "materials": [
+        "Wheelbarrow x1",
+        "Vegetable field (any) x4"
+      ],
+      "pokemon": [
+        "Tyranitar"
+      ],
+      "image": "https://img.game8.co/4434682/6df7cb3235ca60650fc104593f2d742d.png/show"
+    },
+    {
+      "dexNo": 109,
+      "name": "Uplifting duckweed",
+      "materials": [
+        "Duckweed x4",
+        "Water x2"
+      ],
+      "pokemon": [
+        "Lotad",
+        "Ludicolo"
+      ],
+      "image": "https://img.game8.co/4432222/0bbbe3f5d6ebe928f74563705413388a.png/show"
+    },
+    {
+      "dexNo": 110,
+      "name": "Mossy rest spot",
+      "materials": [
+        "Moss x4"
+      ],
+      "pokemon": [
+        "Larvitar",
+        "Tyranitar"
+      ],
+      "image": "https://img.game8.co/4431869/3a42144ea107f89445d98d176a880e2e.png/show"
+    },
+    {
+      "dexNo": 111,
+      "name": "Mossy boulder",
+      "materials": [
+        "Moss x4",
+        "Mossy boulder x1"
+      ],
+      "pokemon": [
+        "Graveler",
+        "Golem"
+      ],
+      "image": "https://img.game8.co/4432227/d5ec0f6a3c89a8cb41822ac668696935.png/show"
+    },
+    {
+      "dexNo": 112,
+      "name": "Mossy hot spring",
+      "materials": [
+        "Moss x4",
+        "Hot-spring water x2"
+      ],
+      "pokemon": [
+        "Torkoal"
+      ],
+      "image": "https://img.game8.co/4432231/f90d33a6824c90079ca7d72f46898d86.png/show"
+    },
+    {
+      "dexNo": 113,
+      "name": "Open-air bath",
+      "materials": [
+        "Hot-spring spout x1",
+        "Hot-spring water x2"
+      ],
+      "pokemon": [
+        "Raboot"
+      ],
+      "image": "https://img.game8.co/4433920/4acf47c3fbc87387f7d1e79117b364c8.png/show"
+    },
+    {
+      "dexNo": 114,
+      "name": "Harmonious hot spring",
+      "materials": [
+        "Hot-spring spout x1",
+        "Water basin x1",
+        "Hot-spring water x2"
+      ],
+      "pokemon": [
+        "Politoed"
+      ],
+      "image": "https://img.game8.co/4432235/ecb7992b1a6dfb2a89cd12c6cf1cb252.png/show"
+    },
+    {
+      "dexNo": 115,
+      "name": "Piping-hot lava",
+      "materials": [
+        "Molten rock x1",
+        "Lava x2"
+      ],
+      "pokemon": [
+        "Volcarona",
+        "Charcadet"
+      ],
+      "image": "https://img.game8.co/4432279/50cc36d18575bb0333a57cadd82a3660.png/show"
+    },
+    {
+      "dexNo": 116,
+      "name": "Digging and burning",
+      "materials": [
+        "Wheelbarrow x1",
+        "Excavation tools x1",
+        "Smelting furnace x1"
+      ],
+      "pokemon": [
+        "Magmar"
+      ],
+      "image": "https://img.game8.co/4432281/3e559f2cfcf7aff4f396abb9decf1f48.png/show"
+    },
+    {
+      "dexNo": 117,
+      "name": "Clink-clang iron construction",
+      "materials": [
+        "Iron beam or column x3",
+        "Wheelbarrow x1",
+        "Excavation tools x1",
+        "Sandbags x1"
+      ],
+      "pokemon": [
+        "Steelix",
+        "Machamp"
+      ],
+      "image": "https://img.game8.co/4432288/65444ea5671060095c97b119203aaa63.png/show"
+    },
+    {
+      "dexNo": 118,
+      "name": "Creepy white rocks",
+      "materials": [
+        "Stalagmites x1",
+        "Moss x4",
+        "Wooden crate x1",
+        "Lantern x1"
+      ],
+      "pokemon": [
+        "Glimmet",
+        "Glimmora"
+      ],
+      "image": "https://img.game8.co/4432292/acf62e2160912f899ae3a51948d20a52.png/show"
+    },
+    {
+      "dexNo": 119,
+      "name": "Container snacking",
+      "materials": [
+        "Barrel x1",
+        "Wooden crate x1",
+        "Lantern x1",
+        "Plated food x1"
+      ],
+      "pokemon": [
+        "Diglett",
+        "Glimmet",
+        "Glimmora"
+      ],
+      "image": "https://img.game8.co/4432298/ec9fb898c720cd9430f9ea6d3c9c7495.png/show"
+    },
+    {
+      "dexNo": 121,
+      "name": "Best bread bakery",
+      "materials": [
+        "Bread oven x1",
+        "Counter x2",
+        "Plated food x1"
+      ],
+      "pokemon": [
+        "Fidough",
+        "Dachsbun"
+      ],
+      "image": "https://img.game8.co/4432304/c5a702505f579d630fde5ba5e4867a80.png/show"
+    },
+    {
+      "dexNo": 123,
+      "name": "House party",
+      "materials": [
+        "Food counter x1",
+        "Paper party cups x1",
+        "Plated food x1"
+      ],
+      "pokemon": [
+        "Dugtrio",
+        "Sudowoodo"
+      ],
+      "image": "https://img.game8.co/4434685/c6485a859f05019016969e6f9793c53b.png/show"
+    },
+    {
+      "dexNo": 124,
+      "name": "Lazy photo-album scrolling",
+      "materials": [
+        "Tablet x1",
+        "Paper part cups x1"
+      ],
+      "pokemon": [
+        "Toxel"
+      ],
+      "image": "https://img.game8.co/4434479/c5dbef16fcfd64e2255d319365f9e7cc.png/show"
+    },
+    {
+      "dexNo": 125,
+      "name": "Chirping recital",
+      "materials": [
+        "Perch x1",
+        "Standing mic x1"
+      ],
+      "pokemon": [
+        "Honchkrow",
+        "Chatot"
+      ],
+      "image": "https://img.game8.co/4432314/536948904e9a1fbaf211738ee91c35e4.png/show"
+    },
+    {
+      "dexNo": 127,
+      "name": "Box to the rhythm",
+      "materials": [
+        "Punching bag x1",
+        "CD player x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Machoke",
+        "Riolu",
+        "Lucario"
+      ],
+      "image": "https://img.game8.co/4432318/f17fff606dd12c53f478d2046c483987.png/show"
+    },
+    {
+      "dexNo": 129,
+      "name": "Mini museum",
+      "materials": [
+        "Pedestal/exhibition stand x1",
+        "Post (any) x3",
+        "Lost relic (large) x1"
+      ],
+      "pokemon": [
+        "Arcanine"
+      ],
+      "image": "https://img.game8.co/4432445/89c248b88c5c1610181772808f1ef80f.png/show"
+    },
+    {
+      "dexNo": 130,
+      "name": "Refreshing locker room",
+      "materials": [
+        "Office locker x2",
+        "Punching game x1",
+        "Potted plant (any) x1",
+        "Seat (wide) x1"
+      ],
+      "pokemon": [
+        "Raboot",
+        "Cinderace"
+      ],
+      "image": "https://img.game8.co/4432451/f5dd90e58be6b535d989112d8da2e59b.png/show"
+    },
+    {
+      "dexNo": 131,
+      "name": "Bronze landmark",
+      "materials": [
+        "Sign x1",
+        "Moonlight dance statue x1",
+        "Hedge (any) x4"
+      ],
+      "pokemon": [
+        "Clefairy",
+        "Clefable"
+      ],
+      "image": "https://img.game8.co/4432453/c43377c70401fcb6924ae53750bde22f.png/show"
+    },
+    {
+      "dexNo": 132,
+      "name": "Railroad crossing",
+      "materials": [
+        "Railway track x1",
+        "Crossing gate x1"
+      ],
+      "pokemon": [
+        "Rolycoly",
+        "Carkol"
+      ],
+      "image": "https://img.game8.co/4432470/988cdc518fbe0be8d2366088df0045c2.png/show"
+    },
+    {
+      "dexNo": 133,
+      "name": "Chef's kitchen",
+      "materials": [
+        "Cooking stove x1",
+        "Plain table x1",
+        "Cutting board x1",
+        "Modern sink x1",
+        "Stylish cooking pot x1",
+        "Plated food x1"
+      ],
+      "pokemon": [],
+      "image": "https://img.game8.co/4434486/bea584cb20125cc85f9cbcc26b8eb587.png/show"
+    },
+    {
+      "dexNo": 137,
+      "name": "Pink tall grass",
+      "materials": [
+        "Pink tall grass x4"
+      ],
+      "pokemon": [
+        "Trapinch",
+        "Vibrava",
+        "Flygon",
+        "Swablu",
+        "Duskull"
+      ],
+      "image": "https://img.game8.co/4433926/46a9086d1e5cdd365af33246358e00a0.png/show"
+    },
+    {
+      "dexNo": 138,
+      "name": "Tree-shaded pink tall grass",
+      "materials": [
+        "Pink tall grass x4",
+        "Large tree (any) x1"
+      ],
+      "pokemon": [
+        "Pupitar",
+        "Dreepy",
+        "Drakloak",
+        "Sprigatito"
+      ],
+      "image": "https://img.game8.co/4433932/96738ba06f2de90cb60406f57a56ea22.png/show"
+    },
+    {
+      "dexNo": 139,
+      "name": "Hydrated pink tall grass",
+      "materials": [
+        "Pink tall grass x4",
+        "Water x2"
+      ],
+      "pokemon": [
+        "Froakie",
+        "Frogadier",
+        "Greninja"
+      ],
+      "image": "https://img.game8.co/4433938/1a68398ac71e664e0464c44ce4ab7716.png/show"
+    },
+    {
+      "dexNo": 140,
+      "name": "Elevated pink tall grass",
+      "materials": [
+        "Pink tall grass x4",
+        "High-up location x1"
+      ],
+      "pokemon": [
+        "Corvisquire",
+        "Corviknight",
+        "Wattrel",
+        "Kilowattrel"
+      ],
+      "image": "https://img.game8.co/4433946/605ea7c55ebcac57496bddab76d327a5.png/show"
+    },
+    {
+      "dexNo": 141,
+      "name": "Concrete pipe secret base",
+      "materials": [
+        "Concrete pipe x3",
+        "Tall grass (any) x4"
+      ],
+      "pokemon": [
+        "Cyndaquil",
+        "Quilava"
+      ],
+      "image": "https://img.game8.co/4433950/56ea908bc11fff24edc3feb683254fc4.png/show"
+    },
+    {
+      "dexNo": 142,
+      "name": "Fluffy flower bed",
+      "materials": [
+        "Skyland flowers x4"
+      ],
+      "pokemon": [
+        "Vulpix",
+        "Ninetales",
+        "Misdreavus",
+        "Mismagius",
+        "Rookidee"
+      ],
+      "image": "https://img.game8.co/4433959/24ab7f18ea297818c3968fd52a82bcd9.png/show"
+    },
+    {
+      "dexNo": 143,
+      "name": "Tree-shaded fluffy flower bed",
+      "materials": [
+        "Skyland flowers x4",
+        "Large tree (any) x1"
+      ],
+      "pokemon": [
+        "Girafarig",
+        "Farigiraf",
+        "Servine",
+        "Serperior"
+      ],
+      "image": "https://img.game8.co/4433965/29550e8cd0a0c2186978b9e958ad5bdd.png/show"
+    },
+    {
+      "dexNo": 144,
+      "name": "Hydrated fluffy flower bed",
+      "materials": [
+        "Skyland flowers x4",
+        "Water x2"
+      ],
+      "pokemon": [
+        "Poliwhirl",
+        "Dratini",
+        "Dragonair"
+      ],
+      "image": "https://img.game8.co/4433967/63dce028739f10506f3466b90b7a609a.png/show"
+    },
+    {
+      "dexNo": 145,
+      "name": "Waterside dinghy",
+      "materials": [
+        "Canoe x1",
+        "Duckweed x2",
+        "Water x2",
+        "High-up location x1"
+      ],
+      "pokemon": [
+        "Dragonite"
+      ],
+      "image": "https://img.game8.co/4433976/d601d5b8fc71ea94c98c9a7ddef3ec58.png/show"
+    },
+    {
+      "dexNo": 147,
+      "name": "Birdsong garden",
+      "materials": [
+        "Stylish hedge x1",
+        "Wooden birdhouse x1"
+      ],
+      "pokemon": [
+        "Altaria"
+      ],
+      "image": "https://img.game8.co/4433980/7ac89813bd7451d965e5878912d8fde4.png/show"
+    },
+    {
+      "dexNo": 148,
+      "name": "Simple bathroom",
+      "materials": [
+        "Shower x1",
+        "Bathub x1"
+      ],
+      "pokemon": [
+        "Dratini",
+        "Dragonair"
+      ],
+      "image": "https://img.game8.co/4434689/cc8eb3352d514a38e4d8fd2614dca487.png/show"
+    },
+    {
+      "dexNo": 150,
+      "name": "Fireplace nap spot",
+      "materials": [
+        "Stone fireplace x1",
+        "Seat (wide) x1"
+      ],
+      "pokemon": [
+        "Quilava"
+      ],
+      "image": "https://img.game8.co/4433981/24faab0a38e0156d039d6e23cd743f23.png/show"
+    },
+    {
+      "dexNo": 151,
+      "name": "Surging psychic power",
+      "materials": [
+        "Simple cushion x1",
+        "Crystal ball x1"
+      ],
+      "pokemon": [
+        "Abra",
+        "Alakazam"
+      ],
+      "image": "https://img.game8.co/4434491/4bcae26f3153491d74b329c5b54d0cc6.png/show"
+    },
+    {
+      "dexNo": 153,
+      "name": "Trash site TV",
+      "materials": [
+        "Garbage bags x2",
+        "Television x1"
+      ],
+      "pokemon": [
+        "Dusclops",
+        "Dusknoir"
+      ],
+      "image": "https://img.game8.co/4433982/cf99bf2869b873bdb9327e20e0de0d66.png/show"
+    },
+    {
+      "dexNo": 156,
+      "name": "Sewer-hole inspection",
+      "materials": [
+        "Iron pipes x1",
+        "Sewer-hole cover x1",
+        "Excavation tools x1",
+        "Traffic cone x1"
+      ],
+      "pokemon": [
+        "Poliwrath",
+        "Corviknight",
+        "Tinkatuff"
+      ],
+      "image": "https://img.game8.co/4434695/4d8a761240a364097cda63f8b04bdacb.png/show"
+    },
+    {
+      "dexNo": 157,
+      "name": "Spotless washing station",
+      "materials": [
+        "Towel rack x1",
+        "Sink x1",
+        "Wall mirror x1"
+      ],
+      "pokemon": [
+        "Mime Jr.",
+        "Mr. Mime"
+      ],
+      "image": "https://img.game8.co/4433984/81971cdb6859163b87bd6c14e7a54cb6.png/show"
+    },
+    {
+      "dexNo": 159,
+      "name": "Study area",
+      "materials": [
+        "Bookcase x1",
+        "Pencil holder x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Ralts"
+      ],
+      "image": "https://img.game8.co/4433987/80c6654b5a3fb07328711fd22ab710fd.png/show"
+    },
+    {
+      "dexNo": 160,
+      "name": "Rhythmic living room",
+      "materials": [
+        "Speaker x2",
+        "Television x2",
+        "Music mat (any) x4"
+      ],
+      "pokemon": [
+        "Noibat"
+      ],
+      "image": "https://img.game8.co/4436292/78c09da6ce0cf858f7131aff0143f86d.png/show"
+    },
+    {
+      "dexNo": 164,
+      "name": "Game Corner battle zone",
+      "materials": [
+        "Arcade machine x2",
+        "Seat (any) x2"
+      ],
+      "pokemon": [
+        "Porygon-Z"
+      ],
+      "image": "https://img.game8.co/4434697/9f5e195d58eb08470a299bff89d45316.png/show"
+    },
+    {
+      "dexNo": 165,
+      "name": "Playland",
+      "materials": [
+        "Slide x1",
+        "Toy (any) x1"
+      ],
+      "pokemon": [
+        "Snivy"
+      ],
+      "image": "https://img.game8.co/4433988/fef9a0da87494ad38e61db7e31bb6e21.png/show"
+    },
+    {
+      "dexNo": 166,
+      "name": "Work desk",
+      "materials": [
+        "Office desk x1",
+        "Mug x1",
+        "Laptop x1",
+        "Office chair x1"
+      ],
+      "pokemon": [
+        "Porygon2"
+      ],
+      "image": "https://img.game8.co/4433266/71140bf112167861b3cfdf34390a4296.png/show"
+    },
+    {
+      "dexNo": 167,
+      "name": "Office storeroom",
+      "materials": [
+        "Office shelf x1",
+        "Cardboard boxes x1",
+        "Step stool x1"
+      ],
+      "pokemon": [
+        "Misdreavus",
+        "Mismagius",
+        "Drakloak"
+      ],
+      "image": "https://img.game8.co/4433990/efc4299e4d8fb76fe1e4ba77e19c9b60.png/show"
+    },
+    {
+      "dexNo": 169,
+      "name": "Professor's apprentice program",
+      "materials": [
+        "Whiteboard x1",
+        "Jumbled cords x1",
+        "Laptop x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Metang"
+      ],
+      "image": "https://img.game8.co/4433993/efb33dfe5df404add6916db0c923da30.png/show"
+    },
+    {
+      "dexNo": 170,
+      "name": "Researcher's desk",
+      "materials": [
+        "Computer x1",
+        "Science experiment x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Porygon"
+      ],
+      "image": "https://img.game8.co/4434496/fc8c4bcdcb6fb3c4c64bd656eaa418a2.png/show"
+    },
+    {
+      "dexNo": 171,
+      "name": "Public reading material",
+      "materials": [
+        "Magazine rack x1",
+        "Newspaper x1"
+      ],
+      "pokemon": [],
+      "image": "https://img.game8.co/4435015/fce555ded6cf7af254a249aca3c58816.png/show"
+    },
+    {
+      "dexNo": 172,
+      "name": "Heart-pounding surprise box",
+      "materials": [
+        "Spotlight x2",
+        "Boo-in-the-box x1",
+        "Big drum x1"
+      ],
+      "pokemon": [
+        "Meowscarada"
+      ],
+      "image": "https://img.game8.co/4433997/ab1fdad2820ab6282844dd86111a387a.png/show"
+    },
+    {
+      "dexNo": 173,
+      "name": "Prank button",
+      "materials": [
+        "Floor switch x1",
+        "Boo-in-the-box x1"
+      ],
+      "pokemon": [
+        "Greninja"
+      ],
+      "image": "https://img.game8.co/4434499/c84e4edac523984da32e2715636f7097.png/show"
+    },
+    {
+      "dexNo": 174,
+      "name": "Picturesque photo cutout board",
+      "materials": [
+        "Photo cutout board x1",
+        "Spotlight x2",
+        "High-up location x1"
+      ],
+      "pokemon": [
+        "Plusle",
+        "Minun"
+      ],
+      "image": "https://img.game8.co/4434699/ad127d4bfe2858e225c435f31f88ae11.png/show"
+    },
+    {
+      "dexNo": 175,
+      "name": "Tire park",
+      "materials": [
+        "Slide x1",
+        "Tire toy x2",
+        "Tires x1"
+      ],
+      "pokemon": [
+        "Dedenne"
+      ],
+      "image": "https://img.game8.co/4434500/216a6a5e453acd2e3cbb989e62b251af.png/show"
+    },
+    {
+      "dexNo": 176,
+      "name": "Nature's market",
+      "materials": [
+        "Large boulder x1",
+        "Cash register x1",
+        "Large tree (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Raichu"
+      ],
+      "image": "https://img.game8.co/4434000/73baf600693613a610ab81857d64573c.png/show"
+    },
+    {
+      "dexNo": 177,
+      "name": "Construction-site generator",
+      "materials": [
+        "Furnace x1",
+        "Iron scaffold x2",
+        "Iron pipes x1"
+      ],
+      "pokemon": [
+        "Conkeldurr"
+      ],
+      "image": "https://img.game8.co/4434001/bbd92e860b2eca93a273d0cd75130323.png/show"
+    },
+    {
+      "dexNo": 178,
+      "name": "Dojo training",
+      "materials": [
+        "Hanging scroll x2",
+        "Strength rock x2"
+      ],
+      "pokemon": [
+        "Poliwrath",
+        "Gallade"
+      ],
+      "image": "https://img.game8.co/4434512/a8ae651eac46535802e30360322a88e4.png/show"
+    },
+    {
+      "dexNo": 179,
+      "name": "Evil organiztion HQ",
+      "materials": [
+        "Team Rocket wall hanging x1",
+        "Luxury sofa x1",
+        "Potted plant (any) x2"
+      ],
+      "pokemon": [
+        "Persian"
+      ],
+      "image": "https://img.game8.co/4434002/dfa59a7bafdf1f14a766f3932e4d4476.png/show"
+    },
+    {
+      "dexNo": 180,
+      "name": "Nine flames",
+      "materials": [
+        "Firepit x9"
+      ],
+      "pokemon": [
+        "Ninetales"
+      ],
+      "image": "https://img.game8.co/4436398/59efb561c8f45591b3e643831655eae1.png/show"
+    },
+    {
+      "dexNo": 181,
+      "name": "Plush central",
+      "materials": [
+        "Arcanine doll x1",
+        "Dragonite doll x1",
+        "Pikachu doll x1",
+        "Eevee doll x1"
+      ],
+      "pokemon": [
+        "Drifloon"
+      ],
+      "image": "https://img.game8.co/4433253/ac430a50516e5e0bf34e84606f6dcefb.png/show"
+    },
+    {
+      "dexNo": 184,
+      "name": "Fishing pond",
+      "materials": [
+        "Fishing rod x1",
+        "Water x1",
+        "Seat (any) x1"
+      ],
+      "pokemon": [
+        "Slowbro",
+        "Slowking"
+      ],
+      "image": "https://img.game8.co/4433214/55f233d516ae0a2a7c590470fbcf7b12.png/show"
+    },
+    {
+      "dexNo": 185,
+      "name": "Ocean fishing spot",
+      "materials": [
+        "Fishing rod x1",
+        "Ocean water x1",
+        "Seat (any) x1"
+      ],
+      "pokemon": [
+        "Magikarp",
+        "West Sea Gastrodon",
+        "East Sea Gastrodon"
+      ],
+      "image": "https://img.game8.co/4431885/f48c0068f7fecb980fbcc53b18f6efea.png/show"
+    },
+    {
+      "dexNo": 186,
+      "name": "Marsh fishing spot",
+      "materials": [
+        "Fishing rod x1",
+        "Muddy Water x1",
+        "Seat (any) x1"
+      ],
+      "pokemon": [
+        "Grimer",
+        "Muk",
+        "Clodsire"
+      ],
+      "image": "https://img.game8.co/4434701/5fac6084cf3ec96973d6e1d96e65e8f4.png/show"
+    },
+    {
+      "dexNo": 188,
+      "name": "Magma fishing spot",
+      "materials": [
+        "Fishing rod x1",
+        "Lava x1",
+        "Seat (any) x1"
+      ],
+      "pokemon": [
+        "Arcanine"
+      ],
+      "image": "https://img.game8.co/4433735/c201522832c83bfc3b844766936219d6.png/show"
+    },
+    {
+      "dexNo": 191,
+      "name": "Malicious knight's shrine",
+      "materials": [
+        "Pedestal/exhibition stand x1",
+        "Malicious Armor x1",
+        "Stepping stones x2",
+        "Firepit x2"
+      ],
+      "pokemon": [
+        "Ceruledge"
+      ],
+      "image": "https://img.game8.co/4434704/bcbe97d4bbee8eb4920e3942f4bc289b.png/show"
+    },
+    {
+      "dexNo": 193,
+      "name": "Wing Fossil display",
+      "materials": [
+        "Pedestal/exhibition stand x1",
+        "Wing Fossil (head) x1",
+        "Wing Fossil (right wing) x1",
+        "Wing Fossil (left wing) x1",
+        "Wing Fossil (body) x1",
+        "Wing Fossil (tail) x1"
+      ],
+      "pokemon": [
+        "Aerodactyl"
+      ],
+      "image": "https://img.game8.co/4434516/d3adaba3eb8256e9819ef67163b62184.png/show"
+    },
+    {
+      "dexNo": 195,
+      "name": "Headbutt Fosssil display",
+      "materials": [
+        "Pedestal/exhibition stand x1",
+        "Headbutt Fossil (head) x1",
+        "Headbutt Fossil (body) x1",
+        "Headbutt Fossil (tail) x1"
+      ],
+      "pokemon": [
+        "Rampardos"
+      ],
+      "image": "https://img.game8.co/4434706/823eca2a31f7bd325d2eac26a88fc1c1.png/show"
+    },
+    {
+      "dexNo": 196,
+      "name": "Armor Fossil display",
+      "materials": [
+        "Pedestal/exhibition stand x1",
+        "Armor Fossil x1"
+      ],
+      "pokemon": [
+        "Shieldon"
+      ],
+      "image": "https://img.game8.co/4434707/07455b50e63e85fd23378e1675656d3c.png/show"
+    },
+    {
+      "dexNo": 197,
+      "name": "Shield Fossil display",
+      "materials": [
+        "Pedestal/exhibition stand x2"
+      ],
+      "pokemon": [
+        "Bastiodon"
+      ],
+      "image": "https://img.game8.co/4434589/c0742ea93a3764f7bb8d9945c3390bb2.png/show"
+    },
+    {
+      "dexNo": 198,
+      "name": "Jaw Fossil display",
+      "materials": [
+        "Pedestal/exhibition stand x1",
+        "Jaw Fossil x1"
+      ],
+      "pokemon": [
+        "Tyrunt"
+      ],
+      "image": "https://img.game8.co/4434708/9aeb11f21054fae0e84cee2b9396475a.png/show"
+    },
+    {
+      "dexNo": 199,
+      "name": "Despot Fossil display",
+      "materials": [
+        "Pedestal/exhibition stand x1",
+        "Despot Fossil (head) x1",
+        "Despot Fossil (body) x1",
+        "Despot Fossil (tail) x1",
+        "Despot Fossil (legs) x1"
+      ],
+      "pokemon": [
+        "Tyrantrum"
+      ],
+      "image": "https://img.game8.co/4432472/b931334744b097f13d2de3dd8b1bf4c3.png/show"
+    },
+    {
+      "dexNo": 201,
+      "name": "Tundra Fossil display",
+      "materials": [
+        "Pedestal/exhibition stand x1",
+        "Tundra Fossil (head) x1",
+        "Tundra Fossil (body) x1",
+        "Tundra Fossil (tail) x1"
+      ],
+      "pokemon": [
+        "Aurorus"
+      ],
+      "image": "https://img.game8.co/4434710/a0075a6a8647ede3e9d7217a866ed8ae.png/show"
+    },
+    {
+      "dexNo": 202,
+      "name": "Boundless blue beverage",
+      "materials": [
+        "Soda float x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Vaporeon"
+      ],
+      "image": "https://img.game8.co/4431886/f3e9ffd8d541f4d77db164677fa20fb6.png/show"
+    },
+    {
+      "dexNo": 203,
+      "name": "Electrifying potatoes",
+      "materials": [
+        "Fried potatoes x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Jolteon"
+      ],
+      "image": "https://img.game8.co/4431890/ce1aa4f04497b3053b50f311bb216df9.png/show"
+    },
+    {
+      "dexNo": 204,
+      "name": "Burning-hot spice",
+      "materials": [
+        "Pizza x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Flareon"
+      ],
+      "image": "https://img.game8.co/4431891/dbe8fdcb94b46151e70c4fab28c53cad.png/show"
+    },
+    {
+      "dexNo": 205,
+      "name": "Elegant daytime treats",
+      "materials": [
+        "Afternoon tea set x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Espeon"
+      ],
+      "image": "https://img.game8.co/4431893/e4fd6945a3e04d014e204da819407812.png/show"
+    },
+    {
+      "dexNo": 206,
+      "name": "Dark-chocolate cookies",
+      "materials": [
+        "Chocolate cookies x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Umbreon"
+      ],
+      "image": "https://img.game8.co/4431895/152c22cfdca56d905d26b26486d5c10f.png/show"
+    },
+    {
+      "dexNo": 207,
+      "name": "Leafy greens sandwich",
+      "materials": [
+        "Sandwiches x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Leafeon"
+      ],
+      "image": "https://img.game8.co/4431896/b52d6689c624c2f542b05892595f34df.png/show"
+    },
+    {
+      "dexNo": 208,
+      "name": "Chilly shaved ice",
+      "materials": [
+        "Shaved ice x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Glaceon"
+      ],
+      "image": "https://img.game8.co/4431898/d7510df1c38b83d737bade097b4b1206.png/show"
+    },
+    {
+      "dexNo": 209,
+      "name": "Lovely ribbon cake",
+      "materials": [
+        "Ribbon cake x1",
+        "Seat (any) x1",
+        "Table (any) x1"
+      ],
+      "pokemon": [
+        "Sylveon"
+      ],
+      "image": "https://img.game8.co/4431899/974a542495bb112ad39bc6f6ae59bcf0.png/show"
+    }
+  ]
+}

@@ -1,0 +1,2423 @@
+{
+  "source": "https://www.pokopiawiki.com/items",
+  "fetchedAt": "2026-03-11T11:33:09.945Z",
+  "count": 302,
+  "items": [
+    {
+      "slug": "abandoned-power-plant-kit",
+      "name": "Abandoned Power Plant kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/abandoned-power-plant-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes an abandoned power plant teeming with electricity.",
+      "map": "Palette Town"
+    },
+    {
+      "slug": "ability-shield",
+      "name": "Ability Shield",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/ability-shield.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "altar-of-the-flame-kit",
+      "name": "Altar of the Flame kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/altar-of-the-flame-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes an altar accompanied by roaring flames",
+      "map": "Palette Town"
+    },
+    {
+      "slug": "antique-bed",
+      "name": "Antique bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/antique-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "antique-chest",
+      "name": "Antique chest",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/antique-chest.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "antique-dresser",
+      "name": "Antique dresser",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/antique-dresser.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "antique-sofa",
+      "name": "Antique sofa",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/antique-sofa.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "arcade-machine",
+      "name": "Arcade machine",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/arcade-machine.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "armor-fossil",
+      "name": "Armor Fossil",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/armor-fossil.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "aspear-berry",
+      "name": "Aspear Berry",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/aspear-berry.png",
+      "category": "Food",
+      "description": "This berry has a distinctively sharp sour taste. Restores some PP when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "avalugg-table",
+      "name": "Avalugg Table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/avalugg-table.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "beach-chair",
+      "name": "Beach chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/beach-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "bean",
+      "name": "Bean",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bean.png",
+      "category": "Food",
+      "description": "Small beans that are jam-packed with nutrients. Restores some PP when eaten",
+      "map": ""
+    },
+    {
+      "slug": "berry-bed",
+      "name": "Berry bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/berry-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "berry-chair",
+      "name": "Berry chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/berry-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "berry-table",
+      "name": "Berry table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/berry-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "big-root",
+      "name": "Big Root",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/big-root.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "big-storage-box",
+      "name": "Big storage box",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/big-storage-box.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "bike",
+      "name": "Bike",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bike.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "bitter-hamburger-steak",
+      "name": "Bitter hamburger steak",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bitter-hamburger-steak.png",
+      "category": "Food",
+      "description": "A bitter-tasting hamberuger steak topped with leaves. Powers up Rock Smash when eaten",
+      "map": ""
+    },
+    {
+      "slug": "black-belt",
+      "name": "Black Belt",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/black-belt.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "black-paint",
+      "name": "Black paint",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/black-paint.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "blue-paint",
+      "name": "Blue paint",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/blue-paint.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "boo-in-the-box",
+      "name": "Boo-in-the-box",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/boo-in-the-box.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "bouldery-badge",
+      "name": "Bouldery Badge",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bouldery-badge.png",
+      "category": "KeyItems",
+      "description": "Proof that one has overcome a difficult trial. It sparkles with gray light.",
+      "map": ""
+    },
+    {
+      "slug": "bouncy-blue-bathtub",
+      "name": "Bouncy blue bathtub",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bouncy-blue-bathtub.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "bread-bowl",
+      "name": "Bread bowl",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bread-bowl.png",
+      "category": "Food",
+      "description": "Spicy bread that's delicious even when burnt. Powers up Cut when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "brick",
+      "name": "Brick",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/brick.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "bruised-berry",
+      "name": "Bruised berry",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bruised-berry.png",
+      "category": "Food",
+      "description": "A bruised berry you got from Chef Dente. Restores a bit of PP when eaten",
+      "map": ""
+    },
+    {
+      "slug": "carrot-bread",
+      "name": "Carrot bread",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/carrot-bread.png",
+      "category": "Food",
+      "description": "Spicy bread with an intense carrot flavor. Powers up Cut when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "cascade-like-badge",
+      "name": "Cascade-like Badge",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cascade-like-badge.png",
+      "category": "KeyItems",
+      "description": "Proof that one has overcome a difficult trial. It sparkles with blue light",
+      "map": ""
+    },
+    {
+      "slug": "cave-mushrooms",
+      "name": "Cave mushrooms",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cave-mushrooms.png",
+      "category": "Food",
+      "description": "Mushrooms that grow in damp places such as caves or under shady trees. Restores some PP when eaten",
+      "map": ""
+    },
+    {
+      "slug": "charcoal",
+      "name": "Charcoal",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/charcoal.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "charging-station-kit",
+      "name": "Charging station kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/charging-station-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a device that's perfect for charging things up",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "charizard-rug",
+      "name": "Charizard Rug",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/charizard-rug.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "chesto-berry",
+      "name": "Chesto Berry",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/chesto-berry.png",
+      "category": "Food",
+      "description": "A rock-hard berry with a dry flavor. Restores some PP when eaten",
+      "map": ""
+    },
+    {
+      "slug": "chic-chair",
+      "name": "Chic chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/chic-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "chic-sofa",
+      "name": "Chic sofa",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/chic-sofa.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "chic-table",
+      "name": "Chic table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/chic-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "chili-sauce",
+      "name": "Chili sauce",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/chili-sauce.png",
+      "category": "Food",
+      "description": "Sauce with an enticingly spicy flavor. If you take a sip and spit it out, it becomes lava!",
+      "map": ""
+    },
+    {
+      "slug": "city-cottage-kit",
+      "name": "City cottage kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/city-cottage-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a place where two Pokémon can relax.",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "city-den-kit",
+      "name": "City den kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/city-den-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a den for medium-sized Pokémon or smaller",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "city-house-kit",
+      "name": "City house kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/city-house-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! Let's make a ginormous house where everyone can live together",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "city-hut-kit",
+      "name": "City hut kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/city-hut-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a hut that any Pokémon could easily live in",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "clear-amulet",
+      "name": "Clear Amulet",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/clear-amulet.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "common-candy",
+      "name": "Common candy",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/common-candy.png",
+      "category": "Food",
+      "description": "A piece of candy you got from Chef Dente. Restores some PP when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "concert-stage-kit",
+      "name": "Concert stage kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/concert-stage-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a stage big enough to hold all your friends",
+      "map": "Reach Rank 8 in Rocky Ridges and put in shop"
+    },
+    {
+      "slug": "concrete",
+      "name": "Concrete",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/concrete.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "copper-ingot",
+      "name": "Copper Ingot",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/copper-ingot.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "copper-ore",
+      "name": "Copper Ore",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/copper-ore.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "cotton-spores",
+      "name": "Cotton Spores",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cotton-spores.png",
+      "category": "Materials",
+      "description": "Small, white tufts of cotton. Bring them to Hoppip!",
+      "map": "Dream Island"
+    },
+    {
+      "slug": "counter",
+      "name": "Counter",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/counter.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "crouton-salad",
+      "name": "Crouton salad",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/crouton-salad.png",
+      "category": "Food",
+      "description": "A spicy salad with a delightfully crunchy texture. Powers up Leafage when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "crushed-berry-salad",
+      "name": "Crushed-berry salad",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/crushed-berry-salad.png",
+      "category": "Food",
+      "description": "A salad with a dry flavor, made with crushed Chesto Berries. Powers up Leafage when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "crystal-fragment",
+      "name": "Crystal Fragment",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/crystal-fragment.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "curry-and-rice",
+      "name": "Curry and rice",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/curry-and-rice.png",
+      "category": "Food",
+      "description": "An absolutely essential meal for any party. Enjoy some tasty food alongside other Pokémon!",
+      "map": ""
+    },
+    {
+      "slug": "cute-bed",
+      "name": "Cute bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cute-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "cute-chair",
+      "name": "Cute chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cute-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "cute-dresser",
+      "name": "Cute dresser",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cute-dresser.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "cute-sofa",
+      "name": "Cute sofa",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cute-sofa.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "cute-table",
+      "name": "Cute table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cute-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "cyan-paint",
+      "name": "Cyan paint",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cyan-paint.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "despot-fossil-body",
+      "name": "Despot Fossil (body)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/despot-fossil-body.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "despot-fossil-head",
+      "name": "Despot Fossil (head)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/despot-fossil-head.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "despot-fossil-legs",
+      "name": "Despot Fossil (legs)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/despot-fossil-legs.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "despot-fossil-tail",
+      "name": "Despot Fossil (tail)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/despot-fossil-tail.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "destiny-knot",
+      "name": "Destiny Knot",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/destiny-knot.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "earth-badge",
+      "name": "Earth Badge",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/earth-badge.png",
+      "category": "KeyItems",
+      "description": "Proof that one has overcome a difficult trial. It sparkles with green light",
+      "map": ""
+    },
+    {
+      "slug": "eerie-candle",
+      "name": "Eerie Candle",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/eerie-candle.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "electrifying-soup",
+      "name": "Electrifying soup",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/electrifying-soup.png",
+      "category": "Food",
+      "description": "A shockingly spicy soup.. Powers up Water Gun when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "exhibition-stand",
+      "name": "Exhibition stand",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/exhibition-stand.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "fairy-feather",
+      "name": "Fairy Feather",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fairy-feather.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "fancy-chair",
+      "name": "Fancy chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fancy-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "fiery-magby-statue",
+      "name": "Fiery Magby statue",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fiery-magby-statue.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "fishing-rod",
+      "name": "Fishing rod",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fishing-rod.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "flavorful-soup",
+      "name": "Flavorful soup",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/flavorful-soup.png",
+      "category": "Food",
+      "description": "A sour soup bursting with flavor. Powers up Water Gun when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "flower-cushion",
+      "name": "Flower cushion",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/flower-cushion.png",
+      "category": "Furniture",
+      "description": "A cute flower-shaped cushion. It would look nice on some grassy ground.",
+      "map": "Pokémon Center Exchange"
+    },
+    {
+      "slug": "flower-table",
+      "name": "Flower table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/flower-table.png",
+      "category": "Furniture",
+      "description": "A table with a flower-patterned tablecloth. It makes any meal feel like a picnic",
+      "map": "Pokémon Center Exchange"
+    },
+    {
+      "slug": "fluff",
+      "name": "Fluff",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fluff.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "fluffy-bread",
+      "name": "Fluffy bread",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fluffy-bread.png",
+      "category": "Food",
+      "description": "Sweet bread made with Pecha Berries. Powers up cut when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "folding-chair",
+      "name": "Folding chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/folding-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "food-counter",
+      "name": "Food counter",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/food-counter.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "fountain-plaza-kit",
+      "name": "Fountain plaza kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fountain-plaza-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a plaza that's perfect for meetups",
+      "map": "Reach Rank 8 in Sparkling Skylands and put in shop"
+    },
+    {
+      "slug": "freezing-chambers-kit",
+      "name": "Freezing Chambers kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/freezing-chambers-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes frozen mountains with a mystical atmosphere",
+      "map": "Palette Town"
+    },
+    {
+      "slug": "fresh-carrot",
+      "name": "Fresh carrot",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fresh-carrot.png",
+      "category": "Food",
+      "description": "You can harvest these spicy carrots by pulling up on their leaves. Restores some PP when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "fresh-water",
+      "name": "Fresh Water",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fresh-water.png",
+      "category": "Food",
+      "description": "Delicious water that's perfect for making soup. Drink some and spit it out to make things wet.",
+      "map": ""
+    },
+    {
+      "slug": "funky-diffuser",
+      "name": "Funky diffuser",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/funky-diffuser.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "furnace-kit",
+      "name": "Furnace kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/furnace-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a generator that burns stuff to produce heaps of power",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "gaming-bed",
+      "name": "Gaming bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gaming-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "gaming-chair",
+      "name": "Gaming chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gaming-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "gaming-fridge",
+      "name": "Gaming fridge",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gaming-fridge.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "garden-chair",
+      "name": "Garden chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/garden-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "garden-table",
+      "name": "Garden table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/garden-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "glass",
+      "name": "Glass",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/glass.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "glowing-mushrooms",
+      "name": "Glowing mushrooms",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/glowing-mushrooms.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "gold-bottle-cap",
+      "name": "Gold Bottle Cap",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gold-bottle-cap.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "gold-ingot",
+      "name": "Gold Ingot",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gold-ingot.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "gold-ore",
+      "name": "Gold Ore",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gold-ore.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "gold-teeth",
+      "name": "Gold Teeth",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gold-teeth.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "gray-cottage-kit",
+      "name": "Gray cottage kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gray-cottage-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a stately house well-suited for luxuriating",
+      "map": ""
+    },
+    {
+      "slug": "gray-hut-kit",
+      "name": "Gray hut kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gray-hut-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a cool stone house",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "green-paint",
+      "name": "Green paint",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/green-paint.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "guest-room-bed",
+      "name": "Guest-room bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/guest-room-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "gym-emblem-statue",
+      "name": "Gym emblem statue",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/gym-emblem-statue.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "hard-stone",
+      "name": "Hard Stone",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/hard-stone.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "headbutt-fossil-body",
+      "name": "Headbutt Fossil (body)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/headbutt-fossil-body.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "headbutt-fossil-head",
+      "name": "Headbutt Fossil (head)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/headbutt-fossil-head.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "headbutt-fossil-tail",
+      "name": "Headbutt Fossil (tail)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/headbutt-fossil-tail.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "healthy-soup",
+      "name": "Healthy soup",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/healthy-soup.png",
+      "category": "Food",
+      "description": "A spicy soup with an aromatic bean flavor.. Powers up Water Gun when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "heart-scale",
+      "name": "Heart Scale",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/heart-scale.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "honey",
+      "name": "Honey",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/honey.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "horsea-fountain",
+      "name": "Horsea fountain",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/horsea-fountain.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "indigo-meteor-lamp",
+      "name": "Indigo meteor lamp",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/indigo-meteor-lamp.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "industrial-bed",
+      "name": "Industrial bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/industrial-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "industrial-chair",
+      "name": "Industrial chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/industrial-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "industrial-desk",
+      "name": "Industrial desk",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/industrial-desk.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "iron-ball",
+      "name": "Iron Ball",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/iron-ball.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "iron-bed",
+      "name": "Iron bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/iron-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "iron-chair",
+      "name": "Iron chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/iron-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "iron-ingot",
+      "name": "Iron Ingot",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/iron-ingot.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "iron-ore",
+      "name": "Iron Ore",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/iron-ore.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "iron-rack",
+      "name": "Iron rack",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/iron-rack.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "iron-stand",
+      "name": "Iron stand",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/iron-stand.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "iron-table",
+      "name": "Iron table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/iron-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "jaw-fossil",
+      "name": "Jaw Fossil",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/jaw-fossil.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "kitchen-table",
+      "name": "Kitchen table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/kitchen-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "large-mirror",
+      "name": "Large mirror",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/large-mirror.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "leaf",
+      "name": "Leaf",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leaf.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "leaf-cottage-kit",
+      "name": "Leaf cottage kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leaf-cottage-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a place where two Pokémon can relax.",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "leaf-den-kit",
+      "name": "Leaf den kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leaf-den-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a den for medium-sized Pokémon or smaller",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "leaf-house-kit",
+      "name": "Leaf house kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leaf-house-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! Let's make a ginormous house where everyone can live together",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "leaf-hut-kit",
+      "name": "Leaf hut kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leaf-hut-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a hut that any Pokémon could easily live in",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "leftovers",
+      "name": "Leftovers",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leftovers.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "leppa-berry",
+      "name": "Leppa Berry",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leppa-berry.png",
+      "category": "Food",
+      "description": "A berry with a rather unremarkable flavor. Restores some PP when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "leppa-bread",
+      "name": "Leppa bread",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leppa-bread.png",
+      "category": "Food",
+      "description": "Sour-tasting bread made with Leppa Berry jam.. Powers up Cut when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "leppa-salad",
+      "name": "Leppa salad",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leppa-salad.png",
+      "category": "Food",
+      "description": "A sweet salad made with Leppa Berries. Powers up Leafage when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "life-orb",
+      "name": "Life Orb",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/life-orb.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "light-clay",
+      "name": "Light Clay",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/light-clay.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "log-cabin-kit",
+      "name": "Log cabin kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/log-cabin-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a house that has a pleasing woodsy aroma",
+      "map": ""
+    },
+    {
+      "slug": "log-chair",
+      "name": "Log chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/log-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "log-table",
+      "name": "Log table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/log-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "lucky-egg",
+      "name": "Lucky Egg",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/lucky-egg.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "lum-berry",
+      "name": "Lum Berry",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/lum-berry.png",
+      "category": "Food",
+      "description": "A berry that has a well-balanced flavor. Restores some PP when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "lumber",
+      "name": "Lumber",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/lumber.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "luxury-bed",
+      "name": "Luxury bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/luxury-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "luxury-sofa",
+      "name": "Luxury sofa",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/luxury-sofa.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "luxury-table",
+      "name": "Luxury table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/luxury-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "marshy-badge",
+      "name": "Marshy Badge",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/marshy-badge.png",
+      "category": "KeyItems",
+      "description": "Proof that one has overcome a difficult trial. It sparkles with golden light",
+      "map": ""
+    },
+    {
+      "slug": "metal-coat",
+      "name": "Metal Coat",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/metal-coat.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "metal-powder",
+      "name": "Metal Powder",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/metal-powder.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "miracle-seed",
+      "name": "Miracle Seed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/miracle-seed.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "model-space-shuttle",
+      "name": "Model space shuttle",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/model-space-shuttle.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "moomoo-milk-coffee",
+      "name": "Moomoo Milk Coffee",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/moomoo-milk-coffee.png",
+      "category": "Food",
+      "description": "Milky coffee with a comfortingly sweet taste. If you take a sip and spit it out, it becomes muddy water!",
+      "map": ""
+    },
+    {
+      "slug": "moonlight-dance-statue-kit",
+      "name": "Moonlight dance statue kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/moonlight-dance-statue-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This will make you want to dance as you're building it",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "mushroom-hamburger-steak",
+      "name": "Mushroom hamburger steak",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/mushroom-hamburger-steak.png",
+      "category": "Food",
+      "description": "A hamburger steak with an intensely dry, mushroomy flavor. Powers up Rock Smash when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "mushroom-soup",
+      "name": "Mushroom soup",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/mushroom-soup.png",
+      "category": "Food",
+      "description": "A soup with a dry flavor made with mushroom broth.. Powers up Water Gun when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "mysterious-gogggles",
+      "name": "Mysterious Gogggles",
+      "image": "",
+      "category": "KeyItems",
+      "description": "Goggles with mysterious power. Wearing these allows you to peek into someone's cloud island",
+      "map": ""
+    },
+    {
+      "slug": "mysterious-pedestal",
+      "name": "Mysterious pedestal",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/mysterious-pedestal.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "mysterious-statue",
+      "name": "Mysterious statue",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/mysterious-statue.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "naptime-bed",
+      "name": "Naptime bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/naptime-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "nonburnable-garbage",
+      "name": "Nonburnable garbage",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/nonburnable-garbage.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "nugget",
+      "name": "Nugget",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/nugget.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "office-chair",
+      "name": "Office chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/office-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "office-desk",
+      "name": "Office desk",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/office-desk.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "office-locker",
+      "name": "Office locker",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/office-locker.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "office-shelf",
+      "name": "Office shelf",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/office-shelf.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "office-table",
+      "name": "Office table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/office-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "orange-hut-kit",
+      "name": "Orange hut kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/orange-hut-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a fancy brick house",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "paper",
+      "name": "Paper",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/paper.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pecha-berry",
+      "name": "Pecha Berry",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pecha-berry.png",
+      "category": "Food",
+      "description": "A sweet, delicious berry. Restores some PP when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "photo-cutout-board",
+      "name": "Photo cutout board",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/photo-cutout-board.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "pikachu-fountain-kit",
+      "name": "Pikachu fountain kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pikachu-fountain-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a found that would look great all lit up",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "pikachu-sofa",
+      "name": "Pikachu sofa",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pikachu-sofa.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pink-hut-kit",
+      "name": "Pink hut kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pink-hut-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a cute plaster house",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "pink-paint",
+      "name": "Pink paint",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pink-paint.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "plain-bed",
+      "name": "Plain bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/plain-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "plain-chair",
+      "name": "Plain chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/plain-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "plain-chest",
+      "name": "Plain chest",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/plain-chest.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "plain-closet",
+      "name": "Plain closet",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/plain-closet.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "plain-sofa",
+      "name": "Plain sofa",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/plain-sofa.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "plain-stool",
+      "name": "Plain stool",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/plain-stool.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "plain-table",
+      "name": "Plain table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/plain-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "poison-barb",
+      "name": "Poison Barb",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/poison-barb.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "pok-ball-bed",
+      "name": "Poké Ball bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pok-ball-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pok-ball-house-kit",
+      "name": "Poké Ball house kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pok-ball-house-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a house that looks like a giant Poké Ball.",
+      "map": "Complete Tinkmaster's Request in Sparkling Skylands"
+    },
+    {
+      "slug": "pok-ball-sofa",
+      "name": "Poké Ball Sofa",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pok-ball-sofa.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pok-ball-table",
+      "name": "Poké Ball table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pok-ball-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pok-blal-chest",
+      "name": "Poké Blal Chest",
+      "image": "",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pok-mart-kit",
+      "name": "Poké Mart kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pok-mart-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a store that somehow always feels a little exciting",
+      "map": "Complete Tinkmaster's Request in Sparkling Skylands"
+    },
+    {
+      "slug": "pok-metal",
+      "name": "Pokémetal",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pok-metal.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pok-metal-fragment",
+      "name": "Pokémetal Fragment",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pok-metal-fragment.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pok-mon-center-counter",
+      "name": "Pokémon Center counter",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pok-mon-center-counter.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "polygonal-shelf",
+      "name": "Polygonal Shelf",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/polygonal-shelf.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pop-art-bed",
+      "name": "Pop art bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pop-art-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pop-art-chair",
+      "name": "Pop art chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pop-art-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pop-art-sofa",
+      "name": "Pop art sofa",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pop-art-sofa.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "pop-art-table",
+      "name": "Pop art table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pop-art-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "potato",
+      "name": "Potato",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/potato.png",
+      "category": "Food",
+      "description": "A delicious potato-even with the skin still on! Restores some PP when eaten",
+      "map": ""
+    },
+    {
+      "slug": "potato-hamburger-steak",
+      "name": "Potato hamburger steak",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/potato-hamburger-steak.png",
+      "category": "Food",
+      "description": "A satisfyingly sweet hamburger steak. Powers up Rock Smash a lot when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "public-seat",
+      "name": "Public seat",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/public-seat.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "push-cart",
+      "name": "Push cart",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/push-cart.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "quick-claw",
+      "name": "Quick Claw",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/quick-claw.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "rainbowish-badge",
+      "name": "Rainbowish Badge",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/rainbowish-badge.png",
+      "category": "KeyItems",
+      "description": "Proof that one has overcome a difficult trial. It sparkles with rainbow light",
+      "map": ""
+    },
+    {
+      "slug": "rare-pok-metal",
+      "name": "Rare Pokémetal",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/rare-pok-metal.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "rare-pok-metal-fragment",
+      "name": "Rare Pokémetal Fragment",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/rare-pok-metal-fragment.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "rawst-berry",
+      "name": "Rawst Berry",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/rawst-berry.png",
+      "category": "Food",
+      "description": "The longer and more curled the leaves are,  the more bitter this berry tastes. Restores some PP when eaten",
+      "map": ""
+    },
+    {
+      "slug": "recycled-bread",
+      "name": "Recycled bread",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/recycled-bread.png",
+      "category": "Food",
+      "description": "Bitter-tasting bread made by reusing other bread. Powers up Cut when eaten",
+      "map": ""
+    },
+    {
+      "slug": "red-meteor-lamp",
+      "name": "Red meteor lamp",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/red-meteor-lamp.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "red-paint",
+      "name": "Red paint",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/red-paint.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "relaxing-park-kit",
+      "name": "Relaxing park kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/relaxing-park-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a park with an iconic Chansey tree",
+      "map": "Reach Rank 8 in Withered Wastelands and put in shop"
+    },
+    {
+      "slug": "resort-hammock",
+      "name": "Resort hammock",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/resort-hammock.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "resort-sofa",
+      "name": "Resort sofa",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/resort-sofa.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "resort-table",
+      "name": "Resort table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/resort-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "ring-target",
+      "name": "Ring Target",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/ring-target.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "room-service",
+      "name": "Room Service",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/room-service.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "roserade-tea",
+      "name": "Roserade Tea",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/roserade-tea.png",
+      "category": "Food",
+      "description": "Tea with a delicate, elegant aroma. If you take a sip and spit it out, it becomes a hot spring!",
+      "map": ""
+    },
+    {
+      "slug": "sail-fossil",
+      "name": "Sail Fossil",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/sail-fossil.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "sand-cottage-kit",
+      "name": "Sand cottage kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/sand-cottage-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a place where two Pokémon can relax.",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "sand-den-kit",
+      "name": "Sand den kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/sand-den-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a den for medium-sized Pokémon or smaller",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "sand-house-kit",
+      "name": "Sand house kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/sand-house-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! Let's make a ginormous house where everyone can live together",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "sand-hut-kit",
+      "name": "Sand hut kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/sand-hut-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a hut that any Pokémon could easily live in",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "sea-glass-fragments",
+      "name": "Sea glass fragments",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/sea-glass-fragments.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "seashell",
+      "name": "Seashell",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/seashell.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "seaweed",
+      "name": "Seaweed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/seaweed.png",
+      "category": "Food",
+      "description": "Seaweed that has washed ashore. Restores some PP when eaten",
+      "map": ""
+    },
+    {
+      "slug": "seaweed-salad",
+      "name": "Seaweed salad",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/seaweed-salad.png",
+      "category": "Food",
+      "description": "A bitter-tasting salad made with seaweed.  Powers up Leafage when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "seaweed-soup",
+      "name": "Seaweed soup",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/seaweed-soup.png",
+      "category": "Food",
+      "description": "A bitter-tasting soup made with seaweed.. Powers up Water Gun when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "seedot-lamp",
+      "name": "Seedot Lamp",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/seedot-lamp.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "sharp-beak",
+      "name": "Sharp Beak",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/sharp-beak.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "shield-fossil-body",
+      "name": "Shield Fossil (Body)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/shield-fossil-body.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "shield-fossil-head",
+      "name": "Shield Fossil (Head)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/shield-fossil-head.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "shield-fossil-tail",
+      "name": "Shield Fossil (tail)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/shield-fossil-tail.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "shredded-salad",
+      "name": "Shredded salad",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/shredded-salad.png",
+      "category": "Food",
+      "description": "A sour salad made with finely chopped leaves. Powers up Leafage when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "side-table",
+      "name": "Side table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/side-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "silk-scarf",
+      "name": "Silk Scarf",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/silk-scarf.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "silver-bottle-cap",
+      "name": "Silver Bottle Cap",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/silver-bottle-cap.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "silver-powder",
+      "name": "Silver Powder",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/silver-powder.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "simple-bread",
+      "name": "Simple bread",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/simple-bread.png",
+      "category": "Food",
+      "description": "Ordinary wheat bread. Powers up Cut when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "simple-hamburger-steak",
+      "name": "Simple hamburger steak",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/simple-hamburger-steak.png",
+      "category": "Food",
+      "description": "An ordinary hamburger steak, made with beans. Powers up Rock Smash when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "simple-salad",
+      "name": "Simple salad",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/simple-salad.png",
+      "category": "Food",
+      "description": "An ordinary salad made with leaves. Powers up Leafage when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "simple-soup",
+      "name": "Simple soup",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/simple-soup.png",
+      "category": "Food",
+      "description": "An ordinary soup made with Fresh Water. Powers up Water Gun when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "skull-fossil",
+      "name": "Skull Fossil",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/skull-fossil.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "small-log",
+      "name": "Small log",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/small-log.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "small-office-kit",
+      "name": "Small office kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/small-office-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a place where you can really focus on your work",
+      "map": ""
+    },
+    {
+      "slug": "soda-pop",
+      "name": "Soda Pop",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/soda-pop.png",
+      "category": "Food",
+      "description": "Fizzy, sparkling soda. If you take a sip and spit it out, it becomes seawater",
+      "map": ""
+    },
+    {
+      "slug": "soft-sand",
+      "name": "Soft Sand",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/soft-sand.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "soft-seat",
+      "name": "Soft seat",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/soft-seat.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "soul-like-badge",
+      "name": "Soul-like Badge",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/soul-like-badge.png",
+      "category": "KeyItems",
+      "description": "Proof that one has overcome a difficult trial. It sparkles with pink light",
+      "map": ""
+    },
+    {
+      "slug": "spaceship",
+      "name": "Spaceship",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/spaceship.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "spacesuit",
+      "name": "Spacesuit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/spacesuit.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "spectator-chair",
+      "name": "Spectator chair",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/spectator-chair.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "spell-tag",
+      "name": "Spell Tag",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/spell-tag.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "squishy-clay",
+      "name": "Squishy clay",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/squishy-clay.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "stardust",
+      "name": "Stardust",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/stardust.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "sticky-barb",
+      "name": "Sticky Barb",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/sticky-barb.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "stone",
+      "name": "Stone",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/stone.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "stone-cottage-kit",
+      "name": "Stone cottage kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/stone-cottage-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a place where two Pokémon can relax.",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "stone-den-kit",
+      "name": "Stone den kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/stone-den-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a den for medium-sized Pokémon or smaller",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "stone-house-kit",
+      "name": "Stone house kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/stone-house-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! Let's make a ginormous house where everyone can live together",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "stone-hut-kit",
+      "name": "Stone hut kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/stone-hut-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a hut that any Pokémon could easily live in",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "storage-box",
+      "name": "Storage Box",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/storage-box.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "strange-strings",
+      "name": "Strange strings",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/strange-strings.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "straw-bed",
+      "name": "Straw bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/straw-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "straw-stool",
+      "name": "Straw stool",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/straw-stool.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "straw-table",
+      "name": "Straw table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/straw-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "sturdy-stick",
+      "name": "Sturdy Stick",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/sturdy-stick.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "stylish-caf-kit",
+      "name": "Stylish Café kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/stylish-caf-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a lovely café where you can take a little breather.",
+      "map": "Reach Rank 8 in Bleak Beach and put in shop"
+    },
+    {
+      "slug": "stylish-stool",
+      "name": "Stylish stool",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/stylish-stool.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "team-rocket-wall-hanging",
+      "name": "Team Rocket Wall Hanging",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/team-rocket-wall-hanging.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "terrain-extender",
+      "name": "Terrain Extender",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/terrain-extender.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "thunderish-badge",
+      "name": "Thunderish Badge",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/thunderish-badge.png",
+      "category": "KeyItems",
+      "description": "Proof that one has overcome a difficult trial. It sparkles with orange light",
+      "map": ""
+    },
+    {
+      "slug": "tinkagear",
+      "name": "Tinkagear",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/tinkagear.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "tomato",
+      "name": "Tomato",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/tomato.png",
+      "category": "Food",
+      "description": "A round, tasty-looking tomato. Restores some PP when eaten",
+      "map": ""
+    },
+    {
+      "slug": "tomato-hamburger-steak",
+      "name": "Tomato hamburger steak",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/tomato-hamburger-steak.png",
+      "category": "Food",
+      "description": "A hamburger steak that brings out the sour flavor of its ingredients.. Powers up Rock Smash when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "tundra-fossil-body",
+      "name": "Tundra Fossil (body)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/tundra-fossil-body.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "tundra-fossil-head",
+      "name": "Tundra Fossil (head)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/tundra-fossil-head.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "tundra-fossil-tail",
+      "name": "Tundra Fossil (tail)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/tundra-fossil-tail.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "twine",
+      "name": "Twine",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/twine.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "twisted-spoon",
+      "name": "Twisted Spoon",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/twisted-spoon.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "vibrant-hamburger-steak",
+      "name": "Vibrant hamburger steak",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/vibrant-hamburger-steak.png",
+      "category": "Food",
+      "description": "A hamburger steak made with lots of ingredients. Powers up Rock Smash a lot when eaten",
+      "map": ""
+    },
+    {
+      "slug": "vine-rope",
+      "name": "Vine rope",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/vine-rope.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "violet-meteor-lamp",
+      "name": "Violet meteor lamp",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/violet-meteor-lamp.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "volcanoey-badge",
+      "name": "Volcanoey Badge",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/volcanoey-badge.png",
+      "category": "KeyItems",
+      "description": "Proof that one has overcome a difficult trial. It sparkles with red light",
+      "map": ""
+    },
+    {
+      "slug": "wall-mirror",
+      "name": "Wall mirror",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wall-mirror.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "wasteland-pok-mon-center-kit",
+      "name": "Wasteland Pokémon Center kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wasteland-pok-mon-center-kit.png",
+      "category": "Kits",
+      "description": "Use this to remodel a Pokémon Center to make it look just like the Wasteland Pokémon Center",
+      "map": "Reach Rank 10 in Withered Wastelands"
+    },
+    {
+      "slug": "wastepaper",
+      "name": "Wastepaper",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wastepaper.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "waterwheel-kit",
+      "name": "Waterwheel kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/waterwheel-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a generator that uses water to produce tons of power",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "weakness-policy",
+      "name": "Weakness Policy",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/weakness-policy.png",
+      "category": "LostRelicsS",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "wheat",
+      "name": "Wheat",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wheat.png",
+      "category": "Food",
+      "description": "They're actually edible raw! Restores some PP when eaten.",
+      "map": ""
+    },
+    {
+      "slug": "white-paint",
+      "name": "White paint",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/white-paint.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "wiggly-mirror",
+      "name": "Wiggly mirror",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wiggly-mirror.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "windmill-kit",
+      "name": "Windmill kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/windmill-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a generator that turns wind energy into loads of power",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "wing-fossil-body",
+      "name": "Wing fossil (body)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wing-fossil-body.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "wing-fossil-head",
+      "name": "Wing Fossil (head)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wing-fossil-head.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "wing-fossil-left-wing",
+      "name": "Wing Fossil (left wing)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wing-fossil-left-wing.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "wing-fossil-right-wing",
+      "name": "Wing Fossil (right wing)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wing-fossil-right-wing.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "wing-fossil-tail",
+      "name": "Wing Fossil (tail)",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wing-fossil-tail.png",
+      "category": "Fossils",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "wobbuffet-wobbler",
+      "name": "Wobbuffet Wobbler",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wobbuffet-wobbler.png",
+      "category": "LostRelicsL",
+      "description": "",
+      "map": "In glowing  terrain"
+    },
+    {
+      "slug": "wooden-bed",
+      "name": "Wooden Bed",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wooden-bed.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "wooden-bench",
+      "name": "Wooden bench",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wooden-bench.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "wooden-table",
+      "name": "Wooden table",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wooden-table.png",
+      "category": "Furniture",
+      "description": "",
+      "map": ""
+    },
+    {
+      "slug": "yellow-hut-kit",
+      "name": "Yellow hut kit",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/yellow-hut-kit.png",
+      "category": "Kits",
+      "description": "Gather some Pokémon and build away! This makes a flashy concrete house",
+      "map": "PC Shop"
+    },
+    {
+      "slug": "yellow-paint",
+      "name": "Yellow paint",
+      "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/yellow-paint.png",
+      "category": "Materials",
+      "description": "",
+      "map": ""
+    }
+  ]
+}
